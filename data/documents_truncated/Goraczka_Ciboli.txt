@@ -1,0 +1,597 @@
+Spis treści
+
+Karta tytułowa
+
+Karta redakcyjna
+
+Prolog. Bobbie Draper
+
+Rozdział pierwszy. Basia
+
+Rozdział drugi. Elvi
+
+Rozdział trzeci. Havelock
+
+Interludium. Śledczy
+
+Rozdział czwarty. Holden
+
+Rozdział piąty. Basia
+
+Rozdział szósty. Elvi
+
+Rozdział siódmy. Holden
+
+Rozdział ósmy. Elvi
+
+Rozdział dziewiąty. Basia
+
+Rozdział dziesiąty. Havelock
+
+Rozdział jedenasty. Holden
+
+Interludium. Śledczy
+
+Rozdział dwunasty. Basia
+
+Rozdział trzynasty. Elvi
+
+Rozdział czternasty. Holden
+
+Rozdział piętnasty. Havelock
+
+Rozdział szesnasty. Elvi
+
+Rozdział siedemnasty. Basia
+
+Rozdział osiemnasty. Holden
+
+Rozdział dziewiętnasty. Havelock
+
+Rozdział dwudziesty. Elvi
+
+Rozdział dwudziesty pierwszy. Basia
+
+Rozdział dwudziesty drugi. Havelock
+
+Interludium. Śledczy
+
+Rozdział dwudziesty trzeci. Holden
+
+Rozdział dwudziesty czwarty. Elvi
+
+Rozdział dwudziesty piąty. Basia
+
+Rozdział dwudziesty szósty. Havelock
+
+Rozdział dwudziesty siódmy. Elvi
+
+Rozdział dwudziesty ósmy. Basia
+
+Rozdział dwudziesty dziewiąty. Holden
+
+Rozdział trzydziesty. Elvi
+
+Rozdział trzydziesty pierwszy. Holden
+
+Rozdział trzydziesty drugi. Havelock
+
+Rozdział trzydziesty trzeci. Basia
+
+Interludium. Śledczy
+
+Rozdział trzydziesty czwarty. Holden
+
+Rozdział trzydziesty piąty. Elvi
+
+Rozdział trzydziesty szósty. Havelock
+
+Rozdział trzydziesty siódmy. Elvi
+
+Rozdział trzydziesty ósmy. Holden
+
+Rozdział trzydziesty dziewiąty. Basia
+
+Rozdział czterdziesty. Havelock
+
+Rozdział czterdziesty pierwszy. Elvi
+
+Rozdział czterdziesty drugi. Havelock
+
+Rozdział czterdziesty trzeci. Basia
+
+Rozdział czterdziesty czwarty. Holden
+
+Interludium. Śledczy
+
+Rozdział czterdziesty piąty. Havelock
+
+Rozdział czterdziesty szósty. Elvi
+
+Rozdział czterdziesty siódmy. Basia
+
+Rozdział czterdziesty ósmy. Holden
+
+Rozdział czterdziesty dziewiąty. Havelock
+
+Rozdział pięćdziesiąty. Elvi
+
+Rozdział pięćdziesiąty pierwszy. Basia
+
+Rozdział pięćdziesiąty drugi. Elvi
+
+Rozdział pięćdziesiąty trzeci. Holden
+
+Rozdział pięćdziesiąty czwarty. Elvi
+
+Interludium. Śledczy
+
+Rozdział pięćdziesiąty piąty. Havelock
+
+Rozdział pięćdziesiąty szósty. Holden
+
+Epilog. Avasarala
+
+Podziękowania
+
+O autorze
+
+
+
+
+
+Tytuł oryginału: Cibola Burn: Book 4 of the Expanse
+
+Copyright © 2014 by James S. A. Corey
+
+Copyright for the Polish translation © 2018 by Wydawnictwo MAG
+
+Redakcja: Iwona Sośnicka
+
+Korekta: Elwira Wyszyńska
+
+Ilustracja na okładce: Dark Crayon
+
+Opracowanie graficzne okładki: Piotr Cieśliński
+
+Projekt typograficzny, skład i łamanie: Tomek Laisar Fruń
+
+Wydanie II
+
+ISBN 978-83-7480-837-8
+
+Wydawca: Wydawnictwo MAG
+
+ul. Krypska 21 m. 63, 04-082 Warszawa
+
+tel./fax 228 134 743
+
+www.mag.com.pl
+
+Wyłączny dystrybutor:
+
+Firma Księgarska Olesiejuk
+
+Spółka z ograniczoną odpowiedzialnością S.K.A.
+
+ul. Poznańska 91, 05-850 Ożarów Maz.
+
+tel. 227213000
+
+www.olesiejuk.pl
+
+Skład wersji elektronicznej:
+
+pan@drewnianyrower.com
+
+
+
+
+
+Dla Jaya Lake i Elmore’a Leonarda.
+
+Panowie, to była czysta przyjemność.
+
+
+
+
+
+Dokument chroniony elektronicznym znakiem wodnym
+
+
+
+
+
+Prolog
+
+
+
+
+
+Bobbie Draper
+
+
+Tysiąc planet, pomyślała Bobbie, gdy zamknęły się drzwi. A właściwie nie tylko tysiąc planet. Tysiąc układów. Słońc. Gazowych olbrzymów. Pasów asteroidów. Wszystkie miejsca zasiedlone przez ludzi pomnożone przez tysiąc. Ekran nad siedzeniami po drugiej stronie wyświetlał wiadomości, ale głośniki były uszkodzone, a głos prezentera był zbyt zniekształcony, by zrozumieć słowa. Jednak grafika, która pojawiła się obok niego, wystarczyła, by wiedziała, o czym mówi. Dotarły nowe dane z sond wysłanych na drugą stronę wrót. Kolejne zdjęcie nieznanego słońca z elipsami oznaczającymi orbity nowych planet. Wszystkie były puste. Cokolwiek zbudowało protomolekułę i u zarania dziejów wystrzeliło ją w stronę Ziemi, nie odbierało już telefonu. Budowniczy mostów otworzył drogę, ale przez wrota nie przeszli wielcy bogowie.
+
+Bobbie pomyślała, że to zdumiewające, jak szybko ludzkość potrafiła przejść od Cóż za przepotężna inteligencja stworzyła te niesamowite cuda? do Cóż, skoro ich tu nie ma, to czy możemy zabrać ich zabawki?
+
+– Przepraszam – odezwał się chrapliwy męski głos. – Nie ma pani czasem paru groszy dla weterana?
+
+Oderwała wzrok od ekranu. Mężczyzna był chudy, o szarej twarzy. Jego ciało zdradzało wszystkie oznaki dorastania w niskim ciążeniu: długi korpus, duża głowa. Oblizał wargi i nachylił się do niej.
+
+– Weteran? – zapytała. – Gdzie służyłeś?
+
+– Na Ganimedesie – odpowiedział, kiwając głową i starając się przybrać szlachetny wyraz twarzy. – Byłem tam, gdy wszystko trafił szlag. A kiedy tu wróciłem, rząd wyrzucił mnie na zbity pysk. Teraz próbuję nazbierać dość, żeby wykupić przelot na Ceres. Mam tam rodzinę.
+
+Bobbie poczuła rosnącą w piersi złość, ale spróbowała zachować spokój w głosie i wyrazie twarzy.
+
+– Korzystałeś z programu dla weteranów? Może ci pomogą.
+
+– Potrzebuję tylko czegoś do zjedzenia – powiedział głosem, w którym pojawił się jad.
+
+Bobbie rozejrzała się po wagonie. Zwykle o tej porze metrem podróżowało wiele osób. Wszystkie osiedla pod Aurorae Sinus były połączone próżniową rurą, elementem wielkiego projektu terraformacji Marsa, który rozpoczął się przed urodzeniem Bobbie i będzie trwał jeszcze długo po jej śmierci. Tym razem w wagonie nie było nikogo. Wzięła pod uwagę, jak musiała wyglądać w oczach żebraka. Była dużą, wysoką i masywną kobietą, ale siedziała, a sweter, który na sobie miała, był dość luźny. Mężczyzna mógł przyjąć błędne założenie, że na jej masę składa się głównie tłuszcz. Którego w ogóle nie miała.
+
+– W której kompanii służyłeś? – zapytała.
+
+Zamrugał. Wiedziała, że powinna się go trochę bać, ale to on poczuł się niepewnie, gdy nie okazała niepokoju.
+
+– Kompanii?
+
+– W której kompanii służyłeś?
+
+Znowu oblizał wargi.
+
+– Nie chcę...
+
+– Bo wiesz, to zabawne – powiedziała. – Mogłabym przysiąc, że znałam praktycznie wszystkich służących na Ganimedesie, gdy zaczęła się wojna. Wiesz, jak przejdzie się przez coś takiego, to mocno wbija się w pamięć. Gdy widzisz, jak ginie mnóstwo twoich przyjaciół. Jaki miałeś stopień? Ja byłam sierżantem kompanii.
+
+Szara twarz zamknęła się w sobie i zbielała. Mężczyzna zacisnął wargi. Wcisnął dłonie głębiej do kieszeni i coś wymamrotał.
+
+– A teraz – kontynuowała Bobbie – pracuję trzydzieści godzin tygodniowo w ramach programu pomocy weteranom. I jestem cholernie pewna, że moglibyśmy zapewnić takiemu weteranowi jak ty całkiem przyzwoity byt.
+
+Odwrócił się, a ona złapała go za łokieć szybciej niż mógł się odsunąć. Jego twarz wykrzywił strach i ból. Przyciągnęła go do siebie. Kiedy się odezwała, mówiła bardzo ostrożnie. Każde słowo było wyraźne i ostre.
+
+– Znajdź. Sobie. Inną. Historię.
+
+– Tak jest, proszę pani – odpowiedział żebrak. – Znajdę. Obiecuję.
+
+Wagon przesunął się, hamując przed stacją Breach Candy. Puściła go i wstała. Kiedy to zrobiła, trochę szerzej otworzył oczy. Ludzie czasami tak na nią reagowali – jej rysy i postawa, odziedziczone po przodkach z Samoa, robiły wrażenie, gdy stanęli z nią twarzą w twarz. Czasami trochę się tego wstydziła. Nie tym razem.
+
+Jej brat mieszkał w średniej klasy dziurze w Breach Candy, niedaleko uniwersytetu. Mieszkała z nim przez jakiś czas po powrocie na Marsa, gdy wciąż próbowała poskładać w całość swoje życie. Zajęło jej to znacznie więcej czasu, niż się spodziewała, czego skutkiem było poczucie, że jest coś winna bratu. Elementem spłacania tego długu były wieczory rodzinnych kolacji.
+
+Sale Breach Candy były dość puste. Reklamy na ścianach budziły się, gdy podchodziła, śledząc ją mechanizmami rozpoznawania twarzy i oferując produkty i usługi, których mogła chcieć. Serwisy randkowe, karnety na siłownię, szoarma na wynos, nowy film Mbeki Soon, porady psychologiczne. Bobbie próbowała nie brać tego do siebie, ale żałowała, że w okolicy nie ma więcej osób, kilku dodatkowych twarzy, które urozmaiciłyby tę mieszankę. Żeby mogła sobie wmawiać, że reklamy wycelowano w kogoś przechodzącego w pobliżu, nie w nią.
+
+Jednak Breach Candy nie było tak tłoczne jak kiedyś. Na stacjach metra i w korytarzach było mniej ludzi, coraz mniej osób przychodziło na spotkania programu pomocy weteranom. Słyszała, że o sześć procent spadła liczba kandydatów na studia.
+
+Ludzkość nie zdołała jeszcze stworzyć ani jednej porządnej kolonii na nowych światach, ale dane sond wystarczyły. Ludzie zobaczyli nową granicę i marsjańskie miasta od razu odczuły konkurencję.
+
+Gdy tylko przeszła przez drzwi, uderzył w nią wywołujący ślinę na ustach intensywny aromat gumbo robionego przez szwagierkę i usłyszała podniesione głosy brata i bratanka. Skręciło ją od nich w trzewiach, ale byli jej rodziną. Kochała ich. Była ich dłużniczką. Nawet jeśli sprawiali, że pomysł szoarmy na wynos stał się nagle bardzo kuszący.
+
+– ...wcale nie to mówię – powiedział bratanek. Kończył studia magisterskie, ale gdy rodzina zaczynała się kłócić, w jego głosie wciąż słyszała jękliwego sześciolatka.
+
+Usłyszała grzmiący głos brata. Bobbie rozpoznała charakterystyczne uderzenia palcami o blat stołu, podkreślające ważniejsze punkty wypowiedzi. Perkusja jako element retoryki. Ich ojciec robił tak samo.
+
+– Mars to nie opcja. – Stuknięcie. – Nie jest wtórny. – Stuknięcie. – Te wrota i to, co znajduje się po ich drugiej stronie, nie jest naszym domem. Wysiłek terraformacji...
+
+– Nie twierdzę, że terraformacja nie ma sensu – odpowiedział bratanek w chwili, gdy weszła do pokoju.
+
+Szwagierka bez słowa kiwnęła jej głową z kuchni. Bobbie odpowiedziała tym samym. Jadalnia łączyła się z salonem, w którym wyświetlane na ekranie wiadomości pokazywały teleskopowe obrazy nieznanych planet z mówiącym obok nich eleganckim czarnoskórym mężczyzną w okularach ze stalowymi ramkami.
+
+– Mówię tylko, że zdobędziemy mnóstwo nowych danych. Danych. To wszystko, co twierdzę.
+
+Siedzieli przygarbieni po dwóch stronach stołu, jakby mieli między sobą niewidzialną szachownicę. Grę wymagającą skupienia i zaangażowania intelektu, pochłaniającą ich tak bardzo, że nie dostrzegali świata wokół. Co było prawdą na wiele sposobów. Zajęła miejsce przy stole, choć żaden z nich jej nie przywitał.
+
+– Mars – odezwał się jej brat – jest najlepiej przebadaną planetą. Nie ma znaczenia, ile nowych zestawów danych zdobędziesz, jeśli nie dotyczą Marsa. Bo nie dotyczą Marsa! To tak jakbyś twierdził, że obejrzenie zdjęć tysiąca innych stołów powie ci więcej na temat tego, przy którym właśnie siedzisz.
+
+– Wiedza jest dobra – zaoponował bratanek. – Sam mi to zawsze powtarzałeś. Nie rozumiem, dlaczego teraz tak się przed tym wzbraniasz.
+
+– Jak ci leci, Bobbie? – odezwała się szwagierka ostro, stawiając miskę na stole.
+
+Ryż i papryka jako podstawa pod gumbo i przypomnienie pozostałym, że mają gościa. Obaj mężczyźni skrzywili się z powodu przerwania dyskusji.
+
+– Dobrze – odpowiedziała Bobbie. – Kontrakt ze stocznią został zatwierdzony. To powinno zapewnić pracę sporej liczbie weteranów.
+
+– To dlatego, że budują statki badawcze i transportowe – skomentował bratanek.
+
+– David.
+
+– Przepraszam, mamo. Ale to prawda – odpowiedział David, nie ustępując. Bobbie nałożyła sobie ryżu do miski. – Wszystkie statki, które łatwo przerobić, są przerabiane, a budują ich też więcej, żeby ludzie mogli lecieć do wszystkich tych nowych układów.
+
+Jej brat wziął miskę z ryżem i łyżkę, śmiejąc się pod nosem, by jasno dać do zrozumienia, jak nisko ceni opinię syna.
+
+– Pierwszy prawdziwy zespół badawczy dopiero dolatuje do pierwszego z tych układów...
+
+– Na Nowej Ziemi już mieszkają ludzie, tato! Grupa uciekinierów z Ganimedesa... – urwał, posyłając Bobbie spojrzenie obarczone poczuciem winy. Ganimedes nie był tematem rozmów przy kolacji.
+
+– Zespół badawczy jeszcze nie wylądował – odpowiedział jej brat. – Miną lata, zanim będziemy mieć tam coś wyglądającego jak prawdziwe kolonie.
+
+– Miną pokolenia, zanim ktokolwiek będzie mógł tutaj chodzić po powierzchni! Nie mamy pieprzonej magnetosfery!
+
+– Słownictwo, David!
+
+Wróciła szwagierka. Gumbo było czarne i aromatyczne, z warstewką oleju na wierzchu. Od jego zapachu Bobbie poczuła ślinę w ustach. Kobieta postawiła kociołek na podstawce i podała Bobbie chochelkę.
+
+– Jak twoje nowe mieszkanie? – zapytała.
+
+– Całkiem miłe – odparła Bobbie. – Tanie.
+
+– Wolałbym, żebyś nie mieszkała w Innis Shallow – skomentował jej brat. – To bardzo zła okolica.
+
+– Nikt nie będzie zaczepiał cioci Bobbie – wtrącił się bratanek. – Oderwałaby im głowy.
+
+Bobbie się uśmiechnęła.
+
+– Nie, po prostu patrzę na nich ciężkim wzrokiem, a oni...
+
+Salon nagle rozbłysnął czerwienią. Zmienił się wygląd ekranu wiadomości. U góry i dołu pojawiły się jaskrawoczerwone pasy, a na ekranie starsza Ziemianka mówiła coś z poważną miną, patrząc prosto do kamery. Za jej plecami wyświetlano zdjęcia pożaru i standardowe zdjęcie starego statku kolonizacyjnego. Czarne litery na tle białych płomieni głosiły: TRAGEDIA NA NOWEJ ZIEMI.
+
+– Co się stało? – zapytała Bobbie. – Co się tam stało?
+
+
+
+
+
+Rozdział pierwszy
+
+
+
+
+
+Basia
+
+
+Basia Merton był kiedyś łagodnym człowiekiem. Nie kimś, kto robi bomby ze starych beczek po smarze i z górniczych materiałów wybuchowych.
+
+Wytoczył kolejną beczkę z małego warsztatu za swoim domem i poturlał ją w stronę jednego z elektrycznych samochodów Pierwszego Lądowania. Budynki rozciągały się na niewielkiej powierzchni na północ i południe, a za nimi aż po horyzont widać było tylko czerń równiny. Zwisająca mu z pasa latarka podskakiwała przy każdym kroku, rzucając na pylisty grunt dziwne ruchome cienie. Spoza kręgu światła huczały małe pozaziemskie zwierzęta.
+
+Noce na Ilusie – on nie nazywał go Nową Ziemią – były bardzo ciemne. Planeta miała trzynaście maleńkich księżyców o niskim albedo, rozmieszczonych tak równomiernie na tej samej orbicie, że wszyscy zakładali, że są artefaktami obcych. Skądkolwiek się wzięły, dla kogoś dorastającego na satelitach Jowisza, będących prawie wielkości planet, wyglądały bardziej na przechwycone asteroidy niż na prawdziwe księżyce. I praktycznie wcale nie przechwytywały ani nie odbijały światła słońca Ilusa. Na miejscowe nocne zwierzęta składały się głównie małe ptaki i jaszczurki. A przynajmniej coś, co nowi mieszkańcy Ilusa uważali za ptaki i jaszczurki. Z ziemskimi odpowiednikami dzieliły tylko najbardziej powierzchowne cechy zewnętrzne i biochemię opartą na węglu.
+
+Basia stęknął z wysiłku, dźwigając beczkę na tył samochodu, a po sekundzie z odległości kilku metrów zabrzmiało identyczne stęknięcie. Jaszczurka papuzia, którą ciekawość przyciągnęła aż do skraju kręgu światła, błysnęła małymi oczami. Stęknęła jeszcze raz, kiwając szeroką skórzastą głową podobną do ropuszej, napełniając i opróżniając przy tym worek powietrzny na karku. Stworzenie czekało przez chwilę, patrząc na niego, a gdy nie odpowiedział, odpełzło z powrotem w mrok.
+
+Basia wyciągnął ze skrzynki narzędziowej elastyczne taśmy i zaczął mocować beczki do paki wózka. Materiały wybuchowe nie powinny się aktywować od upadku na ziemię. A przynajmniej tak twierdził Coop. Basia wolał tego nie sprawdzać.
+
+– Baz – odezwała się Lucia.
+
+Zaczerwienił się, zawstydzony jak mały chłopiec przyłapany na kradzieży cukierków. Lucia wiedziała, co robi. Nigdy nie potrafił jej okłamywać. Ale miał nadzieję, że zostanie w środku, gdy pracował. Sama jej obecność sprawiła, że zaczął się zastanawiać, czy słusznie postępuje. Jeśli tak, to dlaczego czuł się tak zawstydzony w obecności Lucii?
+
+– Baz – powiedziała znowu, nie nalegając. Jej głos zdradzał smutek, nie złość.
+
+– Lucia – odpowiedział, odwracając się.
+
+Stała na skraju światła rzucanego przez jego latarkę, biały szlafrok szczelnie osłaniał szczupłe ciało przed nocnym chłodem. Jej twarz była ciemną plamą.
+
+– Felcia płacze – powiedziała głosem, który nie sugerował oskarżenia. – Boi się o ciebie. Chodź porozmawiać ze swoją córką.
+
+Basia odwrócił się i mocno zaciągnął taśmę na beczkach, ukrywając przed nią twarz.
+
+– Nie mogę. Przylatują – odpowiedział.
+
+– Kto? Kto przylatuje?
+
+– Wiesz, o czym mówię. Jeśli się nie sprzeciwimy, zabiorą wszystko, co tu stworzyliśmy. Potrzebujemy czasu. A tak właśnie możemy go zdobyć. Bez płyty lądowiska będą musieli użyć małych promów. Więc zabierzemy im lądowisko. Zmusimy ich do odbudowania go. Nikomu nie stanie się krzywda.
+
+– Jeśli tu zrobi się źle – odparła – możemy odlecieć.
+
+– Nie – zaoponował Basia zaskoczony gniewem w swoim głosie. Odwrócił się i przeszedł kilka kroków, wciągając jej twarz w krąg światła. Płakała. – Żadnego więcej odlatywania. Opuściliśmy Ganimedesa. Zostawiliśmy Katoa i uciekliśmy, a moja rodzina przez rok mieszkała na statku, gdy nikt nie chciał nam wydać zgody na lądowanie. Nie będziemy znowu uciekać. Nigdy więcej nie będziemy uciekać. Oni zabrali mi już wszystkie dzieci, które mogli.
+
+– Mnie też brakuje Katoa – powiedziała Lucia. – Ale ci ludzie go nie zabili. Była wojna.
+
+– To była decyzja biznesowa. Podjęli decyzję biznesową i wywołali wojnę, zabierając mi syna. – A ja im pozwoliłem, choć tego już nie powiedział. Zabrałem ciebie, Felcię i Jacka, zostawiając Katoa za sobą, bo myślałem, że nie żyje. A jeszcze żył. Słowa były zbyt bolesne, by je wymówić, ale Lucia i tak je usłyszała.
+
+– To nie była twoja wina.
+
+Owszem, była, pojawiło się na końcu jego języka, ale nie powiedział tego.
+
+– Ci ludzie nie mają żadnych praw do Ilusa – powiedział zamiast tego, starając się, by jego głos brzmiał rozsądnie. – Byliśmy tu pierwsi. Zgłosiliśmy roszczenie. Wyślemy pierwszy ładunek litu, dostaniemy pieniądze i będziemy mogli wynająć prawników na Ziemi, żeby o nas zadbali. Jeśli korporacja zapuści tu korzenie, gdy wreszcie do tego dojdzie, to nie będzie miało żadnego znaczenia. Po prostu potrzebujemy czasu.
+
+– Jeśli to zrobisz – odezwała się Lucia – wsadzą cię do więzienia. Zostaw to. Nie rób tego swojej rodzinie.
+
+– Robię to dla mojej rodziny – odpowiedział cicho.
+
+To było gorsze od krzyku. Wskoczył za kierownicę i wdusił pedał gazu. Wózek szarpnął z jękiem. Nie obejrzał się, nie mógł się obejrzeć i zobaczyć Lucii.
+
+– Dla mojej rodziny – powtórzył jeszcze raz.
+
+Oddalił się od domu w stronę prowizorycznego miasta, które zaczęli nazywać Pierwszym Lądowaniem jeszcze w czasach, gdy wybierali miejsce na planecie na podstawie map stworzonych przez czujniki Barbapiccola. Gdy przeszli od pomysłu do rzeczywistego miejsca, nikt nie zawracał sobie głowy zmianą nazwy. Jechał w stronę centrum miasta, dwóch rzędów budynków z prefabrykatów, aż dotarł do szerokiego pasa utwardzonej ziemi służącej za główną drogę i skręcił do miejsca pierwszego lądowania. Uchodźcy, którzy zasiedlili Ilus, dotarli tu ze swojego statku w małych promach, więc do lądowania potrzebowali tylko płaskiego kawałka gruntu, ale ludzie z Royal Charter Energy, korporacyjni, którzy dostali od ONZ statut przekazujący im planetę, zlecą tu z ciężkim sprzętem. Ciężkie promy potrzebowały prawdziwego lądowiska. Zostało zbudowane na tych samych otwartych terenach, których do lądowania użyła kolonia.
+
+Basi wydawało się to obsceniczne. Inwazyjne. Miejsce pierwszego lądowania coś znaczyło. Wyobrażał sobie, że kiedyś powstanie tam park z pomnikiem upamiętniającym ich przybycie na planetę. Zamiast tego RCE zbudowało tam lśniącą metalem, olbrzymią konstrukcję. Co gorsza, zatrudnili do tego samych kolonistów, a dostatecznie dużo osób uznało ten pomysł za na tyle dobry, żeby faktycznie go wykonać.
+
+Czuł się, jakby go wymazywano z historii.
+
+Kiedy przyjechał, na miejscu czekali Scotty i Coop. Scotty siedział na brzegu metalowej platformy z nogami zwieszonymi w powietrzu, paląc fajkę i spluwając na ziemię. Stojąca obok mała elektryczna latarnia oświetlała go w dziwnym zielonym kolorze. Coop stał trochę dalej, z wyszczerzonymi zębami przyglądając się niebu. Coop był Pasiarzem starej szkoły, a seanse leczenia agorafobii były dla niego trudniejsze niż dla pozostałych. Chudy mężczyzna wciąż wpatrywał się w pustkę, walcząc o przyzwyczajenie się do niej tak, jak dziecko zrywa strupy.
+
+Basia podjechał wózkiem do brzegu platformy i zeskoczył z niego, żeby zdjąć pasy przytrzymujące bomby.
+
+– Pomożecie? – rzucił.
+
+Ilus był dużą planetą o ciążeniu trochę powyżej ziemskiego. Nawet po sześciu miesiącach przyjmowania leków wzmacniających mięśnie i kości wszystko wydawało się za ciężkie. Myśl o przestawieniu beczek z powrotem na ziemię sprawiła, że jego mięśnie barków drgnęły w przewidywaniu zmęczenia.
+
+Scotty zsunął się z platformy i zeskoczył półtora metra w dół, na ziemię. Odsunął oleiście czarne włosy z oczu i jeszcze raz solidnie pociągnął z fajki. Basia poczuł intensywny, silny zapach hodowanych przez Scotty’ego konopii zmieszanych z liofilizowanymi liśćmi tytoniu. Coop obejrzał się, przez chwilę skupiając spojrzenie, a potem na jego twarzy pojawił się wąski, okrutny uśmiech. To właśnie on stworzył plan.
+
+– Mmm – odezwał się. – Ładne.
+
+– Nie przywiązuj się – odpowiedział Basia. – Nie zostaną tu długo.
+
+Coop wydał dźwięk naśladujący wybuch i wyszczerzył zęby w uśmiechu. Razem zdjęli z wózka cztery ciężkie beczki i ustawili je w rzędzie obok platformy. Przy ostatniej wszyscy dyszeli z wysiłku. Basia przez chwilę w ciszy opierał się o pojazd, podczas gdy Scotty dopalał fajkę, a Coop montował na baryłkach zapalniki. Detonatory leżały z tyłu wózka jak śpiące grzechotniki z jeszcze nieaktywnymi diodami LED.
+
+W ciemności iskrzyło się miasto. Domy, które zbudowali dla siebie, plus jeden dodatkowy, migotały jak gwiazdy. Za nimi stały ruiny. Długa, niska struktura obcych, z dwoma potężnymi wieżami wznoszącymi się nad okolicą jak gigantyczne termitiery. Cała budowla pełna była korytarzy i pomieszczeń, których nie zaprojektował żaden człowiek. Za dnia ruiny jarzyły się tęczową gamą barw masy perłowej, w nocy były tylko ciemniejszym mrokiem. Jamy kopalni znajdowały się za nimi, niewidoczne poza bardzo słabym odblaskiem lamp odbijającym się od spodu chmur. Prawdę mówiąc, Basia nie lubił odkrywki. Ruiny były dziwnym reliktem przeszłości planety i podobnie jak wszystko, co niezwykłe, a zarazem niestanowiące zagrożenia, także i to przestało przykuwać jego uwagę po pierwszych kilku miesiącach. Kopalnia niosła ze sobą historię i oczekiwania. Pół życia spędził w tunelach z lodu, a tunele biegnące przez obcą ziemię źle pachniały.
+
+Coop syknął ostro, zamachał dłonią i zaklął. Nic nie wybuchło, więc nie mogło być tak źle.
+
+– Myślisz, że zapłacą nam za odbudowanie go? – zapytał Scotty.
+
+Basia zaklął i splunął na ziemię.
+
+– Nie musielibyśmy tego robić, gdyby nie ludzie pragnący utuczyć się na cycku RCE – skomentował, turlając na miejsce ostatnią beczkę. – Bez tego tu nie wylądują. Wystarczyłoby go nie budować.
+
+Scotty roześmiał się w chmurze dymu.
+
+– I tak by tu przylecieli, więc mogliśmy chociaż wziąć ich pieniądze. Tak mówili ludzie.
+
+– Ludzie są głupi – rzucił Basia.
+
+Scotty przytaknął, a potem jedną ręką zrzucił z fotela pasażera wózka papuzią jaszczurkę i usiadł na zwolnionym miejscu. Nogi położył na desce rozdzielczej i głęboko pociągnął z fajki.
+
+– Jeśli mamy to wysadzić, trzeba będzie się stąd oddalić. Ten proch robi solidne bum.
+
+– Hej, ludzie – krzyknął Coop. – Gotowe. Ustawmy je, dobra?
+
+Scotty wstał i ruszył w stronę lądowiska. Basia zatrzymał go, wyjął mu z ust zapaloną fajkę i położył ją na masce wózka.
+
+– Materiały wybuchowe – powiedział. – Wybuchają.
+
+Scotty wzruszył ramionami, ale wyglądał na upokorzonego. Kiedy do niego doszli, Coop obracał już pierwszą beczkę na bok.
+
+– To buena załatwi sprawę. Na mur.
+
+– Dziękuję – powiedział Basia.
+
+Coop leżał na plecach na ziemi. Basia położył się obok niego. Scotty ostrożnie przeturlał bombę między nimi.
+
+Basia wspiął się pod platformę, przeciskając się między skrzyżowanymi wspornikami do każdej z czterech beczek, włączając zdalne zapalniki i synchronizując je. Usłyszał narastający jęk elektrycznych silników i przez chwilę czuł irytację na Scotty’ego za odjechanie, zanim uświadomił sobie, że słyszy przyjeżdżający, a nie oddalający się wózek.
+
+– Hej – zabrzmiał znajomy głos Petera.
+
+– Que la moog drań tu robi? – wymamrotał Coop, wycierając dłonią czoło.
+
+– Mam iść się dowiedzieć? – zapytał Scotty.
+
+– Basia – rzucił Coop. – Idź zobacz, czego chce Peter. Scotty jeszcze sobie nie pobrudził pleców.
+
+Basia wysunął się spod platformy lądowiska i zrobił miejsce dla Scotty’ego przy ostatniej z czterech bomb. Wózek Petera stał zaparkowany obok jego wózka, a sam Peter stał między nimi, przestępując z nogi na nogę jakby cisnęło go na pęcherz. Basię bolały plecy i ręce. Chciał mieć to za sobą i wrócić do domu, do Lucii, Felci i Jacka.
+
+– Czego? – zapytał Basia.
+
+– Lecą – powiedział Pete, szepcząc, jakby był tu ktoś, kto mógłby ich podsłuchać.
+
+– Kto leci?
+
+– Wszyscy. Tymczasowy gubernator. Policja korporacyjna. Personel naukowy i techniczny. Wszyscy. Poważna sprawa. Wyląduje tu dla nas cały nowy rząd.
+
+Basia wzruszył ramionami.
+
+– Też mi nowość. Lecą już od osiemnastu miesięcy. Dlatego właśnie tu jesteśmy.
+
+– Nie – zaoponował Pete, kręcąc się nerwowo i patrząc w gwiazdy. – Lecą już teraz. Edward Israel wyhamował pół godziny temu. Siedzi na wysokiej orbicie.
+
+Basia poczuł niesmak w ustach. Spojrzał w górę, w mrok. Miliard nieznanych gwiazd, choć wszyscy uważali, że to ta sama galaktyka Mlecznej Drogi, tylko widziana z innego kąta. Jego oczy poruszały się gorączkowo, a potem to zobaczył. Ruch był powolny jak ruch minutowej wskazówki na zegarze analogowym, ale zobaczył go. Lądownik już schodził. Ciężki prom leciał na lądowisko.
+
+– Chciałem wam powiedzieć przez radio, ale Coop powiedział, że monitorują widmo radiowe i... – Pete urwał, ale Basia biegł już w stronę platformy.
+
+Scotty i Coop właśnie spod niej wychodzili. Coop strzepnął ze spodni chmury pyłu i wyszczerzył się w uśmiechu.
+
+– Mamy problem – powiedział Basia. – Statek już schodzi. Wygląda na to, że już są w atmosferze.
+
+Coop spojrzał do góry. Światło jego latarki rzuciło cienie na jego policzki i oczy.
+
+– Hm...
+
+– Myślałem, że masz to pod kontrolą. Że zwracasz uwagę na to, gdzie są.
+
+Coop wzruszył ramionami, nie potwierdzając ani nie zaprzeczając.
+
+– Musimy z powrotem wyciągnąć bomby – oświadczył Basia.
+
+Scotty zaczął klękać, ale Coop chwycił go za ramię i zatrzymał.
+
+– Dlaczego? – zapytał.
+
+– Jeśli teraz spróbują wylądować, mogą je aktywować – wyjaśnił Basia.
+
+Coop uśmiechnął się łagodnie.
+
+– Mogą – potwierdził. – I co z tego?
+
+Basia zacisnął dłonie w pięści.
+
+– Oni już schodzą.
+
+– Widzę – zgodził się Coop. – Ale jakoś nie wzbudza to we mnie poczucia obowiązku. I jakby na to nie patrzeć, nie ma dość czasu, żeby je wyciągnąć.
+
+– Możemy wyjąć przynajmniej zapalniki – stwierdził Basia, schylając się. Poświecił latarką po metalowym rusztowaniu.
+
+– Może tak, może nie – odpowiedział Coop. – Pytanie brzmi, czy powinniśmy, a to już zupełnie inna kwestia.
+
+– Coop? – odezwał się Scotty cienkim i niepewnym głosem.
+
+Coop go zignorował.
+
+– Dla mnie to wygląda jak okazja – powiedział.
+
+– W tym promie są ludzie – przypomniał Basia, wczołgując się pod platformę. Elektronika najbliższej bomby opierała się o ziemię. Oparł o nią bolące ramię i pchnął.
+
+– Nie ma czasu, brachu – zawołał Coop.
+
+– Może być, jeśli pomożecie – odkrzyknął Basia.
+
+Zapalnik przywarł do boku beczki jak kleszcz. Basia spróbował wbić palce w żel mocujący i oderwać go od metalu.
+
+– O cholera – powiedział Scotty ze zdecydowanie zbyt dużym przejęciem w głosie. – Baz, cholera!
+
+Zapalnik się oderwał. Basia wcisnął go do kieszeni i zaczął się czołgać do drugiej bomby.
+
+– Nie ma czasu! – krzyknął Coop. – Lepiej się stąd zbierajmy i wysadźmy to, póki jeszcze mogą się podnieść.
+
+Usłyszał, jak jeden z pojazdów rusza. Pete wyraźnie postanowił się oddalić. A potem usłyszał jeszcze inny dźwięk. Basowe grzmienie silników hamujących. Z rozpaczą popatrzył na trzy pozostałe bomby i wyturlał się spod lądowiska. Prom był już masywnym obiektem na czarnym niebie, tak blisko nich, że widział poszczególne dysze.
+
+Nie miał szans.
+
+– Uciekamy! – krzyknął.
+
+Razem ze Scottym i Coopem pognali do wózka. Ryk promu narastał i robił się ogłuszający. Basia dotarł do wózka i chwycił detonator. Jeśli wysadzi bomby wcześniej, prom będzie mógł się poderwać i odlecieć.
+
+– Nie! – krzyknął Coop. – Jesteśmy za blisko!
+
+Basia walnął dłonią w przycisk.
+
+Ziemia się uniosła, uderzając go mocno, z glebą i kamieniami szarpiącymi dłonie i policzek, gdy się wreszcie zatrzymywał, ale ból był odległy. Jakaś jego część wiedziała, że może być bardzo ciężko ranny, może być w szoku, ale to też wydawało się odległe i łatwe do zignorowania. Najbardziej uderzyła go panująca cisza. Świat dźwięku kończył się na jego czaszce. Słyszał własny oddech, bicie swojego serca, ale wszystko poza tym miało głośność ustawioną na „1”.
+
+Przeturlał się na plecy i wbił wzrok w upstrzone gwiazdami nocne niebo. Ciężki prom przeleciał nad jego głową, połowa tego kolosa pluła ogniem, dźwięk silników nie był już basowym rykiem, a krzykiem rannego zwierzęcia, który Basia bardziej czuł w brzuchu niż słyszał. Prom był zbyt blisko, wybuch był zbyt silny, albo po prostu jakiś pechowy odłamek został wyrzucony w bardzo niewłaściwe miejsce. Nigdy się tego nie dowie. Jakaś część Basi wiedziała, że to bardzo źle, ale nie potrafił zwracać na to uwagi.
+
+Prom zniknął z pola widzenia, skrzecząc śmiertelnie w locie nad doliną, co Basia odbierał jako odległy, piskliwy dźwięk, a potem nagle zapadła cisza. Scotty siedział obok niego na ziemi, wpatrując się w miejsce, gdzie zniknęła maszyna. Basia pozwolił sobie dalej leżeć.
+
+Kiedy przygasły plamy w jego polu widzenia, wróciły gwiazdy. Basia patrzył, jak mrugają i zastanawiał się, która z nich jest Słońcem. Były tak daleko. Ale dzięki wrotom – równocześnie były blisko. Zestrzelił ich prom. Teraz będą musieli wylądować. Nie dał im wyboru.
+
+Dopadł go nagły atak kaszlu. Miał wrażenie, że jego płuca wypełniły się płynem, który wykasływał przez kilka następnych minut. Z kaszlem w końcu przyszedł ból, ogarniając go od stóp do głów.
+
+A z bólem przyszedł strach.
+
+
+
+
+
+Rozdział drugi
+
+
+
+
+
+Elvi
+
+
+Promem szarpnęło, rzucając Elvi Okoye o pasy na tyle mocno, żeby pozbawić ją tchu, a potem wcisnęło ją z powrotem w przemożne objęcia pryczy przeciążeniowej. Światło zamigotało, zgasło, wróciło. Przełknęła ślinę, a podniecenie i oczekiwanie zmieniło się w zwierzęcy strach. Obok niej Eric Vanderwert uśmiechnął się w taki sam, sugerujący nadzieję sposób, jaki posyłał jej w ciągu ostatnich sześciu miesięcy. Oczy siedzącego po drugiej stronie Fayeza otworzyły się szeroko, a jego skóra zszarzała.
+
+– Wszystko w porządku – powiedziała Elvi. – Wszystko będzie dobrze.
+
+Nawet gdy mówiła te słowa, jakaś jej część wzdrygnęła się przed nimi. Nie wiedziała, co się dzieje. Nie było mowy, żeby mogła mieć pewność, że faktycznie cokolwiek będzie w porządku. A jednak mimo wszystko jej pierwszym odruchem było zapewnianie, mówienie tego tak, jakby słowa miały magiczną moc. Przez korpus promu przebił się wysoki jęk, z piętrzącymi się na sobie nutami. Poczuła, że jej masa uskakuje w lewo i wszystkie prycze przeciążeniowe równocześnie przesunęły się na przegubach, jak w tańcu synchronicznym. Straciła Fayeza z oczu.
+
+Trójtonowy sygnał dźwiękowy poinformował o aktywacji mikrofonu pilota, a potem w głośnikach zabrzmiał jej głos.
+
+– Panie i panowie, wygląda na to, że doszło do krytycznej awarii na platformie lądowiska. Nie będziemy mogli obecnie wylądować. Wrócimy na orbitę i zadokujemy z powrotem do Edwarda Israela do czasu, aż zdołamy ocenić...
+
+Zamilkła, ale w statku wciąż rozbrzmiewał syk otwartej linii. Elvi przypuszczała, że coś odwróciło uwagę pilotki. Statkiem szarpnęło, a potem maszyna zadrżała i Elvi chwyciła swoje pasy, przytulając się do nich. Ktoś obok zaczął się głośno modlić.
+
+– Panie i panowie – odezwała się znowu pilotka. – Obawiam się, że awaria lądowiska spowodowała uszkodzenie naszego promu. Nie sądzę, żebyśmy mogli od razu polecieć z powrotem na górę. Niedaleko stąd jest dno wyschniętego jeziora. Spróbujemy przyjrzeć mu się jako awaryjnemu miejscu lądowania.
+
+Elvi poczuła chwilową ulgę – wciąż mamy gdzie wylądować – a potem zrozumiała niewypowiedziane słowa i ogarnął ją głębszy strach – ona tak naprawdę mówi, że się rozbijemy.
+
+– Muszę prosić wszystkich o pozostanie w swoich pryczach – powiedziała pilotka. – Proszę nie rozpinać pasów i trzymać ręce i nogi w obrębie osłony pryczy tak, żeby nie uderzały o jej boki. Żel znajduje się tam z określonego powodu. Za kilka minut znajdziemy się na dole.
+
+Wymuszony, sztuczny spokój przeraził Elvi bardziej niż ewentualne krzyki czy płacz. Pilotka robiła wszystko, co mogła, żeby na pokładzie nie wybuchła panika. Czy ktokolwiek robiłby coś takiego, gdyby nie uważał, że panika jest uzasadniona?
+
+Jej masa znowu się przesunęła, ciągnąc ją w lewo i z potem z powrotem, po chwili – gdy prom zaczął opadać – zrobiła się bardzo lekka. Spadanie zdawało się ciągnąć w nieskończoność. Klekot i jęki promu robiły się coraz głośniejsze, przechodząc w ryk. Elvi zamknęła oczy.
+
+– Nic nam nie będzie – powiedziała do siebie. – Wszystko jest w porządku.
+
+Uderzenie rozbiło prom jak ogon homara stuknięty młotkiem. Przez chwilę miała wrażenie widzenia nieznanych gwiazd na obcym niebie i jej świadomość zgasła, jakby Bóg pstryknął przełącznikiem.
+

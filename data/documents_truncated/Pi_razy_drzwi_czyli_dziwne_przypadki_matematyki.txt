@@ -1,0 +1,592 @@
+Ojej, ja nigdy nic z tej matematyki nie rozumiałam!
+
+Jestem nieco zdegustowany. Dziś już chyba dziesiąty raz słyszę te słowa. Tymczasem minął dobry kwadrans, odkąd pani, która je tym razem wypowiedziała, przystanęła przy moim stoisku w grupie innych przechodniów, słuchając z uwagą, jak prezentuję różne ciekawostki geometryczne.
+
+– A poza tym czym się pan zajmuje? – zapytała.
+
+– Jestem matematykiem.
+
+– Ojej, ja nigdy nic z tej matematyki nie rozumiałam!
+
+– Ach tak? Ale przecież to, co opowiadałem, jak mi się wydaje, zainteresowało panią.
+
+– Tak… Ale to… To przecież nie jest prawdziwa matematyka. To jest zrozumiałe.
+
+No tak. Coś takiego nigdy nie przyszło mi do głowy. Czyżby matematyka była z definicji nauką, której nie da się zrozumieć?
+
+Początek sierpnia, promenada Félixa Faure’a w miejscowości La Flotte-en-Ré. Jestem na niewielkim letnim targowisku. Po mojej prawej stronie można sobie zrobić tatuaż henną czy drobne warkoczyki, po lewej mam sprzedawcę akcesoriów do telefonów komórkowych, a przed sobą prezentację biżuterii i najrozmaitszych cacek. A pośród tego wszystkiego ja z moim matematycznym stoiskiem. W wieczornym chłodzie spokojnie przechadzają się urlopowicze. Uwielbiam prezentowanie matematyki w niezwykłych miejscach. Wszędzie tam, gdzie ludzie się tego nie spodziewają. Tam, gdzie tracą swoją zwykłą nieufność…
+
+– Starzy nie uwierzą, że podczas wakacji uczyłem się matematyki! – rzuca mi licealista powracający z plaży.
+
+Fakt, podchodzę ich nieco zdradziecko. Ale jak trzeba, to trzeba. To są moje ulubione chwile. Uwielbiam obserwować, jak zachowują się ludzie przeświadczeni, że są całkiem na bakier z matematyką, kiedy proponuję im zagłębienie się w niej na kwadrans. Wokół mnie nie robi się wcale pusto. Pokazuję im origami, magiczne sztuczki, gry i zagadki… Dla każdego coś miłego.
+
+Dobrze się przy tym bawię, ale w głębi duszy jest mi jednak przykro. Jak to się stało, że trzeba ukrywać przed ludźmi, że zajmują się matematyką, żeby czerpali z tego przyjemność? Dlaczego to słowo budzi w nich strach? Jest oczywiste, że gdybym na moim stoliku umieścił szyldzik „matematyka”, równie dobrze widoczny jak napisy „biżuteria i naszyjniki”, „telefony” albo „tatuaże” znajdujące się na sąsiednich stoiskach, nawet w czwartej części nie odniósłbym takiego sukcesu. Ludzie nie zatrzymywaliby się. Być może nawet skręcaliby w bok, odwracając spojrzenie.
+
+* * *
+
+Ciekawość bierze jednak górę. Obserwuję to na co dzień. Matematyka budzi strach, ale i fascynuje. Nie lubią jej, choć chcieliby lubić. Albo przynajmniej zyskać wgląd w jej mroczne głębie. Uważają tę dziedzinę za hermetyczną i niedostępną. To nieprawda. Przecież można kochać muzykę, nie będąc muzykiem albo cieszyć się dobrym posiłkiem, nie będąc wielkim kucharzem. Dlaczego zatem należałoby być matematykiem lub posiadać wyjątkowy intelekt, by słuchać opowieści o matematyce i pozwolić pieścić swój umysł algebrze lub geometrii? Nie trzeba wchodzić w techniczne detale, żeby rozumieć wielkie idee i dać się nimi oczarować.
+
+A zatem pora wyruszyć w drogę. Jeśli pozwolicie, będę waszym przewodnikiem. Poprowadzę was przez meandry jednej z najbardziej fascynujących i zdumiewających nauk. Pójdźmy na spotkanie ludzi tworzących historię dzięki ich nieoczekiwanym odkryciom i fantastycznym ideom.
+
+Matematykę, całkiem nieświadomie, kształtowali od zarania dziejów liczni artyści, twórcy, odkrywcy, rzemieślnicy, a także rozmaici marzyciele i ludzie ciekawi świata. Mimo wszystko byli to matematycy. Pierwsi, którzy stawiali pytania, którzy szukali, burzyciele i myśliciele. Jeśli chcemy ich zrozumieć, dowiedzieć się, skąd wzięła się matematyka, musimy podążyć ich śladami, bo to od nich wszystko się zaczęło.
+
+Ruszajmy zatem ku wielkiej przygodzie z matematyką!
+
+
+
+
+
+Rozdział 1
+
+
+
+
+Nieuświadomiona matematyka
+
+
+Po powrocie do Paryża na miejsce mojego nowego eksperymentu wybieram Luwr, położony w samym środku stolicy. Matematyka w Luwrze? Wydaje się to absurdalne. Ta dawna rezydencja królewska zamieniona na muzeum dziś jest raczej przestrzenią przeznaczoną dla malarzy, rzeźbiarzy, archeologów oraz historyków niż dla matematyków. A jednak to właśnie tu poszukamy ich pierwszych śladów.
+
+Od wejścia wita mnie wielka piramida ze szkła wzniesiona na dziedzińcu Napoleona, będąca zaproszeniem do geometrii. Jednak ja wybieram się dziś na spotkanie ze znacznie odleglejszą przeszłością. Wchodzę do muzeum i ruszam wehikułem czasu, coraz bardziej oddalając się od współczesności. Defiluję przed królami Francji, przemierzam renesans i średniowiecze, by dotrzeć do antyku. Sale przesuwają się jedna po drugiej, mijam rzymskie posągi, greckie amfory i egipskie sarkofagi. Zmierzam ku jeszcze wcześniejszym czasom. I oto zanurzam się w prehistorii, a wędrując tak przez stulecia, muszę o wszystkim zapomnieć. Zapomnieć o liczbach. Zapomnieć o geometrii. Zapomnieć o literach. Na początku nikt nic nie wiedział. Nawet tego, że trzeba coś wiedzieć.
+
+Pierwszy przystanek w Mezopotamii. I oto cofnęliśmy się o dziesięć tysięcy lat.
+
+Po chwili namysłu decyduję się podążyć jeszcze dalej. Półtora miliona lat wstecz, żeby znaleźć się w samym sercu paleolitu. W tej epoce ogień nie ma jeszcze funkcji użytkowej, a Homo sapiens jest dopiero dalekim projektem. Jesteśmy w królestwie Homo erectus w Azji, Homo ergaster w Afryce, być może także wśród kilku naszych na razie nieodkrytych kuzynów. To epoka kamienia łupanego. W użyciu są pięściaki.
+
+Oto na skraju obozowiska pracują wytwórcy pięściaków. Jeden z nich właśnie chwycił bułę jeszcze nieobrobionego krzemienia, którą znalazł przed kilkoma godzinami. Siada na ziemi – zapewne po turecku – bierze leżący obok siebie ciężki kamień i trzymając bułę w drugiej dłoni, zaczyna uderzać kamieniem w jej brzeg. Odpryskuje pierwszy odłamek. Hominid ogląda wynik swojej pracy, obraca krzemień i powtórnie uderza z drugiej strony. Po odłupaniu z krzemienia dwóch kawałków powstają w nim wgłębienia, które spotykając się, tworzą ostrą krawędź. Teraz nie pozostaje już nic innego, jak powtarzać tę czynność na całym obwodzie krzemienia. W kilku miejscach pięściak jest zbyt gruby i trzeba jeszcze usunąć trochę materiału, żeby nadać wykonywanemu przedmiotowi pożądaną formę.
+
+Bo kształt pięściaka nie jest wcale dziełem przypadku ani chwilowej fantazji. Jest przemyślany, wypracowany, przekazywany z pokolenia na pokolenie. Istnieje kilka ich rodzajów, w zależności od epoki i miejsca wykonania. Niektóre mają wygląd kropli wody z wystającym końcem, z kolei inne, bardziej zaokrąglone, mają kształt jajka, podczas gdy jeszcze inne przypominają raczej równoramienny trójkąt o lekko wypukłych bokach.
+
+
+
+Pięściak z dolnego paleolitu
+
+Wszystkie one mają jednak pewien wspólny element: oś symetrii. Czy taka geometria ma w sobie jakiś aspekt praktyczny, czy też stoi za nią po prostu doznanie estetyczne, które skłoniło naszych przodków do wyboru tej właśnie formy? Trudno powiedzieć. Pewne jest tylko jedno: że symetria nie bierze się z przypadku. Twórca musi przemyśleć swoje uderzenie. Musi myśleć o formie, zanim jeszcze przystąpi do dzieła. Zbudować w sobie mentalny, abstrakcyjny obraz przedmiotu, który ma wykonać. Mówiąc inaczej, posłużyć się matematyczną wyobraźnią.
+
+Ukończywszy pracę, twórca pięściaka ogląda nowe narzędzie. Trzymając je w palcach, patrzy na nie pod światło. Chce lepiej zbadać kształt, żeby go dopracować, uderzyć tu czy tam, aż wreszcie wszystko będzie takie, jakie być powinno. O czym wtedy myśli? Czy odczuwa ową wspaniałą ekscytację, jaka towarzyszy naukowemu odkryciu: świadomość możliwości zrozumienia i kształtowania świata dzięki wykorzystaniu abstrakcyjnej idei? To nieistotne, że wielkie czasy myślenia abstrakcyjnego jeszcze nie nadeszły. Przecież epoka wymaga pragmatyzmu. Pięściak potrzebny jest do cięcia drewna, krojenia mięsa, przebijania skóry, kopania w ziemi.
+
+Teraz jednak posuńmy się tylko trochę w naszej wędrówce. Pozwólmy spać owym pradawnym czasom i może zbyt ryzykownym hipotezom; powróćmy do tego, co będzie właściwym punktem wyjścia dla naszej przygody: do Mezopotamii w VIII tysiącleciu p.n.e.
+
+Na ziemiach Żyznego Półksiężyca, w krainie, która kiedyś zostanie nazwana Irakiem, trwa właśnie rewolucja neolityczna. Dotarła tu niedawno. Osadnictwo odniosło już sukces na równinach Północy. Rejon ten stanowi swoiste laboratorium dla wszystkich innych nowinek. Skupiska domów z glinianych cegieł zaczynają tworzyć wioski, a co bardziej odważni budowniczowie dodają do tych domów piętra. Rolnictwo jest już bardzo dobrze rozwinięte. Dobry klimat pozwala na uprawę ziemi bez sztucznego nawadniania. Zwierzęta i rośliny są stopniowo udomowiane. Ceramika nabiera kształtów.
+
+* * *
+
+No właśnie, pomówmy o ceramice! Bo choć wiele świadectw tej epoki znikło bezpowrotnie w meandrach czasu, to niektóre wciąż istnieją. Archeolodzy znajdują wciąż tysiące garnków, talerzy, dzbanów, misek, czasz. Muzealne witryny wokół mnie są ich pełne. Najstarsze liczą sobie dziewięć tysięcy lat i z sali do sali, tak jak kamyki Tomcia Palucha, prowadzą nas przez stulecia. Mają różne wielkości i wszystkie możliwe kształty, różne zdobienia, reliefy, malowidła, grawerunki. Niektóre mają podstawy, część jest wyposażona w uchwyty. Niektóre są całe, inne popękane, potłuczone, poskładane z kawałków, a z jeszcze innych pozostały tylko nieliczne fragmenty.
+
+Ceramika jest pierwszym wytworem powstałym z użyciem ognia, starszym niż brąz, żelazo czy szkło. Z gliny, owej plastycznej i kopalnej substancji, która występuje obficie na tamtych zasiedlonych przez ludzi terenach, garncarze potrafią tworzyć przedmioty odpowiadające ludzkim potrzebom. Jeśli mają one właściwy kształt, wystarczy suszyć je przez kilka dni, a potem wypalić w wielkim ogniu, by je utwardzić. Technika ta jest znana od bardzo dawna. Już dwadzieścia tysięcy lat temu wytwarzano w ten sposób niewielkie posążki. Jednak dopiero niedawno, wraz z osadnictwem, pojawiła się myśl, by w ten sposób wyrabiać przedmioty codziennego użytku. Nowy styl życia pociągnął za sobą konieczność magazynowania, dlatego zaczęto wytwarzać bardzo pojemne naczynia.
+
+Owe terakotowe pojemniki szybko się rozprzestrzeniły jako przedmioty codziennego użytku, niezbędne w zbiorowej organizacji wiejskiego życia. Potem pozostały jeszcze do zrobienia naczynia stołowe, tyleż trwałe, co i piękne. Wkrótce ceramikę zaczęto dekorować. I tu znów zrodziło się wiele różnych szkół. Jedni twórcy wykonywali motywy dekoracyjne w świeżej glinie za pomocą muszli lub patyka. Inni grawerowali wypalone już naczynia odłamkami kamienia. Jeszcze inni woleli malować powierzchnię, wykorzystując do tego naturalne barwniki.
+
+Kiedy wędruję po salach starożytnego Wschodu, uderza mnie bogactwo motywów geometrycznych stworzonych w Mezopotamii. Tak samo jak w przypadku pięściaków wykonywanych przez pradawnych wytwórców, niektóre symetrie wydają się zbyt pomysłowe, by mogły nie być wynikiem dojrzałego namysłu. Moją uwagę przyciągają fryzy – ozdobne pasy obiegające brzegi waz. Fryzy są dekoracyjnymi wstęgami powstałymi z użyciem jednego prostego motywu, który wielokrotnie powtarza się wzdłuż obwodu naczynia. Do najczęściej spotykanych motywów należy piła o trójkątnych zębach. Istnieją też fryzy tworzone przez dwa przeplatające się pasma. Są fryzy w jodełkę, kwadratowe krenelaże, punktowane romby, szrafowane trójkąty, splatające się ze sobą okręgi…
+
+Kiedy przechodzę do kolejnych rejonów i epok, spostrzegam wciąż nowe wzory. Niektóre motywy są bardzo popularne. Są one powtarzane, przekształcane, ulepszane, pojawiają się w różnych wariantach. A potem, kilka stuleci później, zostają porzucone, jako przeżytek zastąpione nowymi wzorami, zgodnymi z duchem czasu.
+
+Oglądam ich defiladę, a moje oczy matematyka aż błyszczą. Widzę symetrie, obroty, przesunięcia. Wtedy zaczynam w myślach selekcjonować i porządkować wzory. Przypomina mi się kilka twierdzeń poznanych podczas studiów. Klasyfikacja geometrycznych przekształceń1, tego właśnie mi trzeba – wyjmuję zeszyt oraz ołówek i zaczynam bazgrać.
+
+Przede wszystkim widoczne są tu obroty. Na wprost mnie znajduje się fryz stworzony z zazębiających się elementów o kształcie litery S. Przekrzywiam głowę, żeby zyskać pewność. Tak, oczywiście. Ten motyw jest niezmienniczy ze względu na obrót o sto osiemdziesiąt stopni. Jeśli obrócę dzban do góry nogami, wygląd fryzu będzie dokładnie taki sam.
+
+
+
+Są tu również i inne symetrie. Istnieje kilka ich rodzajów. Powoli uzupełniam listę i to poszukiwanie skarbów zaczyna mnie wciągać. Szukam fryzów odpowiadających poszczególnym przekształceniom geometrycznym. Przechodzę z jednej sali do drugiej, zawracam. Niektóre eksponaty są uszkodzone. Czasem muszę mrużyć oczy, żeby odtworzyć w wyobraźni motywy zdobiące gliniane naczynie sprzed tysięcy lat. Gdy znajdę coś nowego, zaraz sprawdzam. Czytam opis, żeby poznać chronologię pojawiania się wzorów.
+
+Ile powinienem ich znaleźć? Po chwili zastanowienia w końcu udaje mi się to określić dzięki słynnemu twierdzeniu. Istnieje dokładnie siedem rodzajów fryzów. Siedem grup geometrycznych przekształceń, które pozostawiają je niezmienionymi. Ani mniej, ani więcej.
+
+Oczywiście mieszkańcy Mezopotamii tego wszystkiego nie wiedzieli. Ponieważ teoria, o której mówię, pojawiła się w epoce odrodzenia! Jednakże nieświadomie i bez innego celu niż dekorowanie ceramiki harmonijnymi i oryginalnymi motywami owi prehistoryczni garncarze stworzyli podwaliny niesamowitej dziedziny, którą zajmowała się cała społeczność matematyków kilka tysięcy lat później.
+
+Przeglądam notatki. Są niemal kompletne. Niemal? Jeden z tych siedmiu wzorów wciąż gdzieś mi umyka. Trochę się tego spodziewałem, bo to najbardziej skomplikowany wzór spośród wszystkich znajdujących się na mojej liście. Szukam takiego, który obrócony poziomo wygląda tak samo, ale dopiero po przesunięciu o połowę długości pojedynczego elementu. Dziś nazywamy to symetrią z poślizgiem. Prawdziwe wyzwanie dla mieszkańców Mezopotamii!
+
+Ponieważ mam jeszcze przed sobą sporo sal, nie tracę nadziei. Śledztwo trwa. Obserwuję najdrobniejsze detale, szukam najskromniejszej wskazówki. Piętrzą się przykłady zaobserwowanych już sześciu wzorów. W moim zeszycie mieszają się daty, schematy i bazgroły. Wciąż jednak nie ma śladu tajemniczego siódmego fryzu.
+
+Nagle czuję uderzenie adrenaliny. Dostrzegam w gablocie żałośnie wyglądający ceramiczny ułomek, zaledwie drobny fragment jakiegoś naczynia. Od góry do dołu biegną przezeń nakładające się na siebie cztery częściowe, lecz dobrze widoczne fryzy. Jeden z nich natychmiast przyciąga moją uwagę. Trzeci w kolejności. Składa się z elementów przypominających nachylone fragmenty prostokąta, które układają się w kształt kłosa. Mrugam w niedowierzaniu, a potem uważnie mu się przyglądam i robię szkic w zeszycie, jak gdybym obawiał się, że wzór zniknie mi sprzed oczu. Geometria jest tu właśnie taka, jak być powinna. Oto symetria z poślizgiem. Odnalazł się siódmy fryz.
+
+
+
+Obok tego eksponatu jest tabliczka z opisem: „Fragment pucharu dekorowanego poziomym pasem i punktowanymi rombami. Połowa V tysiąclecia p.n.e.”.
+
+Umieszczam to na mojej osi czasu. V tysiąclecie przed Chrystusem. To wciąż jeszcze prehistoria, ponad tysiąc lat przed wynalezieniem pisma, a twórcy ceramiki z Mezopotamii znali już, nawet o tym nie wiedząc, wszystkie przypadki twierdzenia, które zostało udowodnione dopiero sześć tysięcy lat później.
+
+Kilka sal dalej odkrywam dzban z trzema uchwytami, który także należy do siódmej kategorii; choć motyw rozwija się spiralnie, struktura geometryczna jest ta sama. Nieco dalej jeszcze jeden przykład. Chcę kontynuować poszukiwania, ale nagle zmienia się scenografia – dotarłem do kresu zbiorów orientalnych. Idąc dalej, znajdę się w Grecji. Ostatnie spojrzenie na moje notatki. Fryzy z symetrią z poślizgiem można policzyć na palcach jednej dłoni. Robi mi się gorąco.
+
+JAK ROZPOZNAĆ SIEDEM KATEGORII FRYZÓW?
+
+Pierwsza kategoria to te… które nie mają żadnej szczególnej właściwości geometrycznej2. To powtarzający się motyw bez żadnych osi symetrii czy też środków obrotu. Dotyczy to przede wszystkim motywów, które nie wykorzystują figur geometrycznych, a jedynie rysunki figuratywne, takie jak postacie zwierząt.
+
+
+
+Druga kategoria to te, w których linia pozioma dzieląca fryz na połowy jest osią symetrii.
+
+
+
+Do trzeciej kategorii należą fryzy z pionową osią symetrii. Ponieważ fryz zawiera motyw powtarzający w poziomie, także oś symetrii powtarza się w poziomie.
+
+
+
+Do czwartej kategorii należą fryzy niezmiennicze ze względu na obrót o kąt półpełny. Jeśli popatrzycie na ten rysunek, a potem odwrócicie go do góry nogami, to za każdym razem ujrzycie to samo.
+
+
+
+Piąta kategoria to symetria z poślizgiem. To jest ta słynna kategoria, którą odkryłem, kończąc oglądanie kolekcji ceramiki z Mezopotamii. Jeśli przekształcicie ten fryz, obracając go wokół osi poziomej (jak w przypadku drugiej kategorii), otrzymacie fryz podobny, ale przesunięty o połowę długości podstawowego motywu.
+
+
+
+Szósta i siódma kategoria nie odpowiadają nowym przekształceniom geometrycznym, ale łączą kilka cech omówionych w poprzednich przypadkach. I tak fryzy należące do kategorii szóstej mają i poziomą, i pionową oś obrotu, a także mają środek obrotu o kąt półpełny.
+
+
+
+Siódma kategoria to fryzy o pionowej osi symetrii, środku obrotu i o symetrii z poślizgiem.
+
+
+
+Trzeba zauważyć, że ten podział dotyczy jedynie struktury geometrycznej i nie wyklucza istnienia różnych wariacji kształtu motywu. I tak poniższe fryzy, choć odmienne, wszystkie należą do siódmej kategorii.
+
+
+
+
+
+A zatem każdy fryz, jaki tylko moglibyśmy wymyślić, będzie należał do jednej z siedmiu kategorii. Jakakolwiek inna kombinacja jest geometrycznie niemożliwa. Zdumiewające, że najczęściej spotyka się dwie ostatnie kategorie. Łatwiej jest bez namysłu rysować figury, które mają wiele symetrii, niż takie, które mają ich mało.
+
+
+
+Po sukcesie, który odniosłem na wystawie sztuki Mezopotamii, następnego dnia przypuszczam szturm na antyczną Grecję. Ledwie trafiam na miejsce, a już nie wiem, w którą stronę obrócić głowę. Nagle polowanie na fryzy staje się dziecinną igraszką. Wystarcza zaledwie kilka kroków, rzut oka na kilka gablot, kilka czarnych amfor zdobionych czerwonymi postaciami, by odnaleźć reprezentantów wszystkich siedmiu rodzajów fryzów z mojej listy. Wobec takiej obfitości porzucam statystykę, którą prowadziłem, oglądając ceramikę Mezopotamii. Zdumiewa mnie bogactwo wyobraźni artystów. Pojawiają się wciąż nowe motywy, za każdym razem bardziej złożone i pomysłowe. Wielokrotnie muszę zrobić przerwę i skupić się, żeby rozwikłać splatające się i wirujące wokół mnie zawijasy.
+
+W kącie jednej z sal dostrzegam lutroforę, której widok odbiera mi dech. Lutrofora jest podłużną amforą z dwoma uchwytami, która służyła do noszenia wody do kąpieli, ta tutaj jest wysoka na ponad metr. Jej fryzy nawarstwiają się, a ja zaczynam przypisywać im kategorie. Pierwsza. Druga. Trzecia. Czwarta. Piąta. W ciągu kilku sekund identyfikuję pięć z siedmiu struktur geometrycznych. Amfora stoi przy ścianie, ale wychylając się nieznacznie, mogę spostrzec, że szósta kategoria znajduje się po jej niewidocznej stronie. Brakuje tylko jednej. To by było zbyt piękne. O dziwo, brakuje nie tej, której poszukiwałem poprzednio. Czasy się zmieniły, moda również, to nie symetrii z poślizgiem mi brakuje, ale połączenia symetrii względem pionowej osi, symetrii obrotowej i symetrii z poślizgiem.
+
+Gorączkowo jej szukam, oglądam każdy detal. Nic nie znajduję. Nieco rozczarowany już mam zamiar zrezygnować, gdy spostrzegam pewien szczegół. Na środku amfory znajduje się scena z dwiema postaciami. Na pierwszy rzut oka nie wydaje się, żeby w tym miejscu mógł znaleźć się fryz. A mimo to na samym dole, po prawej stronie tej sceny, jest coś, co przyciąga moją uwagę; amfora, na której widnieje centralna figura. Waza wyobrażona na wazie! Autotematyzm sprawia, że po mojej twarzy przebiega uśmiech. Mrużę oczy, bo rysunek jest nieco uszkodzony, ale nie pozostawia wątpliwości: fryz znajduje się na tej zachowanej części, to istny cud! To jest właśnie to, czego mi brakuje!
+
+Nieco dalej spotyka mnie nowe zaskoczenie. Fryzy trójwymiarowe! A ja sądziłem, że perspektywę odkrył dopiero renesans. Ciemne i jasne obszary, umiejętnie połączone przez artystę, tworzą grę cieni i świateł, tym samym przydając objętości obiektom geometrycznym umieszczonym na obwodzie tego wielkiego naczynia.
+
+Im więcej się przede mną ujawnia, tym więcej rodzi się pytań. Niektóre eksponaty zamiast fryzów mają na powierzchni parkietaż. Mówiąc inaczej, obiekty geometryczne nie wypełniają jedynie wąskiego paska obiegającego przedmiot, ale całą powierzchnię, powiększając w ten sposób liczbę możliwych kombinacji geometrycznych.
+
+Po Grekach nadchodzą Egipcjanie, Etruskowie i Rzymianie. Odkrywam iluzję koronek wycinanych w samym kamieniu. Kamienne pasy łączą się i naprzemiennie biegną wyżej i niżej, w doskonale regularnie splecionej sieci. Potem, jak gdyby eksponaty już mi nie wystarczały, zaczynam przyglądać się samemu Luwrowi. Sufitom, posadzkom, portalom. Wracając do domu, uświadamiam sobie, że nie potrafię się powstrzymać przed wypatrywaniem. Na ulicy oglądam balkony domów, wzory na ubraniach przechodniów, ściany w korytarzach metra…
+
+Wystarczy inaczej popatrzeć na świat, żeby dostrzec, jak rodzi się matematyka. Pogoń za nią jest fascynująca i nie ma końca.
+
+I przygoda dopiero się zaczyna.
+
+
+
+* * *
+
+
+
+* Chodzi o izometrie, czyli przekształcenia niezmieniające odległości pomiędzy punktami. Na płaszczyźnie takimi przekształceniami są: tożsamość, przesunięcie, symetria środkowa, obrót, symetria osiowa, symetria z poślizgiem. One to warunkują możliwe symetrie fryzów (przyp. tłum.). [wróć]
+
+
+
+Wszystkie te przypadki oczywiście są symetryczne ze względu na przesunięcie (translację) w poziomie o długość podstawowego motywu (przyp. tłum.). [wróć]
+
+
+
+
+
+Rozdział 2
+
+
+
+
+I stała się liczba
+
+
+To naprawdę dobre czasy dla Mezopotamii. Pod koniec IV tysiąclecia p.n.e. część małych wiosek przekształca się w kwitnące miasta. Niektóre z nich już liczą dziesiątki tysięcy mieszkańców! Technika rozwija się na niespotykaną dotąd skalę. Wszyscy rzemieślnicy – czy to architekci, złotnicy, garncarze, tkacze, stolarze, czy też rzeźbiarze – muszą dać dowody swej pomysłowości, by sprostać stojącym przed nimi technicznym wyzwaniom. Metalurgia nie osiągnęła jeszcze swej szczytowej formy rozwoju, ale prace wciąż trwają.
+
+Sieć dróg powoli pokrywa cały region. Rozwija się wymiana kulturowa i handlowa. Stopniowo powstaje coraz bardziej skomplikowana hierarchia, a Homo sapiens odkrywa zalety administrowania. To wszystko wymaga piekielnej organizacji! Aby zaprowadzić porządek, niezbędne jest pismo. Najwyższy już czas, by nasz gatunek je odkrył i tym samym zaczął tworzyć historię. W owej nadchodzącej rewolucji matematyka odegra rolę awangardy.
+
+Podążmy tymczasem wzdłuż biegu Eufratu, porzuciwszy wyżyny północy, które były świadkiem narodzin pierwszych wiejskich osad, i skierujmy się ku Sumerowi, zajmującemu równiny dolnej Mezopotamii. Odtąd to właśnie tu, na stepach Południa, skupiać się będą największe ludzkie osiedla. Idąc wzdłuż rzeki, mijamy miasta Kisz, Nippur, Szuruppak. Są jeszcze młode, ale rozpoczynająca się epoka obiecuje im wielkość i bogactwo.
+
+A potem na horyzoncie nagle pojawia się miasto Uruk.
+
+Uruk jest ludzkim mrowiskiem, które swą sławą i potęgą opromienia cały Bliski Wschód. Miasto o barwie pomarańczy, zbudowane głównie z terakotowych cegieł, rozciąga się na obszarze ponad stu hektarów, a zagubiony w nim wędrowiec może włóczyć się godzinami po zatłoczonych ulicach. W sercu miasta wzniesiono wiele monumentalnych świątyń. Tu oddaje się cześć bogowi Anu, ojcu wszystkich bogów, ale przede wszystkim Inannie, Pani Niebios. Właśnie dla niej wzniesiono kompleks świątynny E-anna, którego największe budowle mają długość czterdziestu i szerokość trzydziestu metrów. To wystarczy, by oszołomić licznych przygodnych podróżnych.
+
+Zbliża się lato i – jak co roku o tej porze – miasto zaczyna tętnić życiem. Wkrótce ku pastwiskom na północy podążą stada owiec, by powrócić dopiero na początku pory chłodów. Przez kilka miesięcy pasterze będą dbać o powierzone im zwierzęta, zapewniając im pożywienie i bezpieczeństwo, tak by potem całe powróciły do swych właścicieli. Sama świątynia E-anna posiada stada liczące dziesiątki tysięcy sztuk. Karawany są tak ogromne, że często towarzyszą im żołnierze, by w drodze chronić je przed niebezpieczeństwami, jakie niesie podróż.
+
+Wyprawienie tak wielkich stad bez zastosowania środków ostrożności nie wchodzi w rachubę. Umowa z pasterzami jest prosta: mają zwrócić tyle zwierząt, ile wywędrowało z miasta. Nie wolno dopuścić, żeby jakakolwiek część stada zaginęła albo żeby kilka sztuk zostało po cichu sprzedanych.
+
+To rodzi nowy problem: jak sprawdzić, czy liczebność powracającego stada odpowiada liczebności stada, które wyruszyło? Aby go rozwiązać, stosuje się wymyślony przed wiekami system glinianych żetonów. Istnieją różne ich rodzaje – w zależności od kształtu lub wyrytych znaków pojedynczy żeton odpowiada jednemu lub wielu rzeczom lub zwierzętom. Owcę symbolizuje zwykły krążek oznaczony krzyżem. W chwili gdy stado wyrusza, umieszcza się w naczyniu tyle żetonów, ile sztuk liczy stado. Wystarczy porównać po powrocie liczebność stada z zawartością naczynia, by sprawdzić, czy żadnego zwierzęcia nie brakuje. Dużo później żetony te zyskały łacińską nazwę calculi, „małe kamyki”, skąd wzięło się słowo calcul – rachunek.
+
+Metoda ma walor praktyczny, ale jest w niej pewien kruczek. Kto pilnuje żetonów? Bo zaufanie muszą mieć obie strony, także pasterze powinni mieć pewność, że pozbawiony skrupułów właściciel podczas ich nieobecności nie dorzuci do urny kilku żetonów. Właściciele mogliby się nieźle urządzić, żądając odszkodowań za zwierzęce „martwe dusze”!
+
+Trzeba nieźle się natrudzić, żeby w końcu znaleźć dobre rozwiązanie. Ale jest: żetony należy umieścić w wielkiej wydrążonej kuli z gliny dającej się szczelnie zamknąć. Po zamknięciu każda ze stron składa na wierzchu podpis, żeby potwierdzić autentyczność zawartości kuli. Odtąd zmiana liczby żetonów bez rozbicia naczynia jest niemożliwa. Pasterze mogą spokojnie wyruszyć ze stadami.
+
+To jednak stwarza dużą niewygodę, tym razem dla właścicieli. Ze względu na swoje interesy powinni oni wiedzieć, ile zwierząt liczą ich stada. I co z tym zrobić? Zapamiętać liczbę owiec? To nie takie proste, gdy w języku nie ma słów na oznaczenie tak wielkich liczb. A może zaopatrzyć się w dodatkowy zestaw niezapieczętowanych żetonów dla każdej kuli? Mało praktyczne.
+
+W końcu pojawia się rozwiązanie. Za pomocą zaostrzonej trzciny na powierzchni każdej kuli należy zaznaczyć znajdujące się w jej środku żetony. Dzięki temu można w dowolnej chwili sprawdzić zawartość naczynia bez konieczności jego rozbicia.
+
+Ta metoda okazuje się na tyle wygodna, że znajduje zastosowanie nie tylko w liczeniu owiec, lecz także w odniesieniu do umów na inne produkty. Zboża takie jak jęczmień i pszenica, a także wełna oraz tekstylia, metale, biżuteria, kamienie szlachetne, olej czy ceramika też mają swoje własne żetony. Nawet podatki reguluje się za pomocą żetonów. Krótko mówiąc, pod koniec IV tysiąclecia w mieście Uruk wszystkie prawidłowo sporządzone umowy muszą być potwierdzone z wykorzystaniem glinianej kuli wypełnionej glinianymi żetonami.
+
+Wszystko działa jak należy, aż pewnego dnia rodzi się nowy pomysł. Idea jest genialna i tak prosta, że aż dziw, że nie wymyślono jej wcześniej. Skoro liczba zwierząt jest zapisana na powierzchni kuli, to po co umieszczać wewnątrz żetony? Można odwzorować te żetony na jakimkolwiek kawałku gliny. Na przykład na płaskiej tabliczce.
+
+I tak powstaje to, co nazywamy pismem.
+
+Znów jestem w Luwrze. Zbiory działu starożytności orientalnych świadczą o prawdziwości całej tej historii. Pierwsza rzecz, która mnie uderza, gdy patrzę na gliniane „koperty” na żetony, to ich rozmiary. Gliniane kulki, które Sumerowie modelowali, obracając je wokół kciuka, są niewiele większe niż piłeczki do ping-ponga. Rozmiary żetonów nie przekraczają centymetra.
+
+Nieco dalej spostrzegam pierwsze tabliczki, piętrzące się w gablotach. Uwiecznione na nich pismo powoli nabiera precyzji i przyjmuje klinową postać, złożoną z drobnych nacięć kształtem przypominających gwoździe. Po upadku dawnej cywilizacji Mezopotamii na początku naszej ery większość tabliczek przez stulecia spokojnie śpi w ruinach miast, aż do XVII wieku, gdy na tych ziemiach pojawiają się europejscy archeologowie i rozpoczynają wykopaliska. Dopiero w XIX wieku tabliczki powoli zaczęto odczytywać.
+
+Mezopotamskie tabliczki są niezbyt duże, podobnie jak kule. Niektóre mają rozmiary zwykłej wizytówki, ale pokrywają je setki drobnych znaków, które tłoczą się jeden obok drugiego. Jak widać, mezopotamscy pisarze nie marnowali nawet skrawka gliny! Umieszczone obok eksponatów informacje pozwalają zrozumieć sens tych tajemniczych symboli. Dotyczą one zwierząt, biżuterii albo zboża.
+
+Obok mnie fotografuje się kilku turystów… razem ze swoimi tabletami. Oto perskie oko historii, która w swej figlarności poprowadziła pismo przez tyle różnych technik, od gliny po papier, przez marmur, wosk, papirus oraz pergamin, i której ostatni żart nadał elektronicznym tabletom kształt ich glinianych praprzodków. Zestawienie tych dwóch przedmiotów ma w sobie coś wyjątkowo wzruszającego. Kto wie, czy za pięć tysięcy lat te dwie tabliczki nie spotkają się, leżąc obok siebie w tej samej muzealnej witrynie1?
+
+Czas płynie i oto jesteśmy już na początku III tysiąclecia p.n.e. Kolejny etap został zamknięty: liczby oderwały się już od zliczanych rzeczy. Przedtem, w czasach kulistych kopert oraz pierwszych tabliczek, rodzaj symboli używanych podczas liczenia zależał od rodzaju rozważanych obiektów. Owca nie jest krową, a więc znaki używane przy liczeniu owiec były inne niż znaki używane przy liczeniu krów. Każda rzecz, która mogła być zliczana, miała swój własny symbol, tak samo jak posiadała swe własne żetony.
+
+Ale teraz już koniec z tą rozrzutnością. Liczby otrzymują swoje własne symbole. A to znaczy, że teraz, żeby zapisać osiem owiec, nie używa się już ośmiu symboli oznaczających owcę, ale po symbolu owcy zapisuje się liczbę osiem. A żeby zapisać osiem krów, wystarczy zastąpić symbol owcy symbolem krowy. Ósemka, sama liczba, się nie zmienia.
+
+Ten etap rozwoju ludzkiej myśli ma podstawowe znaczenie. Gdyby trzeba było podać datę narodzin matematyki, to chyba wybrałbym ten właśnie moment w historii. Moment, w którym powstała liczba sama w sobie i sama dla siebie, ten moment, w którym oderwała się od konkretu, by pozwolić lepiej rozumieć rzeczywistość. Wszystko, co działo się wcześniej, było tylko okresem inkubacji. Pięściaki, fryzy, żetony, niczym preludia do narodzin liczby.
+
+Od tego momentu liczba jest już abstrakcją, czyli tym, co charakteryzuje matematykę: naukę o najwyższym stopniu ogólności. Obiekty badane przez matematykę nie mają tożsamości fizycznej. Nie są materialne, nie są zbudowane z atomów. Są jedynie ideami. Ale jakże skutecznym narzędziem poznania świata są te idee!
+
+Zapewne nie jest dziełem przypadku, że konieczność zapisu liczb pojawiła się w tym krytycznym momencie rodzenia się pisma. Bo o ile wszystkie inne idee można bez problemu przekazywać ustnie, to wydaje się, że stworzenie systemu liczbowego bez zapisu za pomocą znaków rodzi znaczne trudności. Czy jeszcze i dziś myśl o posługiwaniu się liczbami, sama w sobie, może być oderwana od ich zapisu? Co widzicie, myśląc o owcy? Zapewne wyobrażacie sobie zwierzę poruszające się na czterech kończynach, o grzbiecie porośniętym wełną. Nie przychodzi wam do głowy wizualizacja czterech liter tworzących słowo „owca”. A jeśli owcę miałaby zastąpić liczba sto dwadzieścia osiem, to co pojawiłoby się w waszej głowie? Ujrzelibyście cyfry 1, 2 oraz 8, które w waszym mózgu przyjęłyby swoje kształty i związały się razem niczym napis sporządzony sympatycznym atramentem waszych myśli. Mentalne odzwierciedlenie wielkich liczb wydaje się nierozłącznie związane ze sposobem ich zapisu. Przykład jest bezprecedensowy. Podczas gdy dla wszystkich innych rzeczy pismo jest sposobem wyrażenia tego, co i tak wcześniej istniało w języku mówionym, to w przypadku liczb właśnie zapis tworzy język. Pomyślcie tylko, że gdy powiecie „sto dwadzieścia osiem”, nie pozostanie wam nic innego, jak zdeszyfrować to słowo: 100 + 20 + 8. Po przekroczeniu pewnego progu mówienie o jakichkolwiek liczbach bez korzystania z notacji staje się niemożliwe. Dopóki nie zostaną zapisane, wielkie liczby nie odpowiadają żadnym słowom.
+
+Nawet współcześnie istnieją społeczności, które posługują się bardzo niewieloma słowami odpowiadającymi liczbom. Na przykład członkowie plemienia Pirahã, łowcy i zbieracze znad rzeki Maici w Amazonii, liczą tylko do dwóch. Dalej już używają słów oznaczających „kilka” lub „dużo”. Członkowie plemienia Munduruku zaś, także zamieszkującego Amazonię, znają słowa oznaczające liczby od jednego do pięciu, czyli tyle, ile jest palców u jednej dłoni.
+
+Codzienność nowoczesnych społeczeństw zdominowały jednak liczby. Stały się one tak wszechobecne i niezbędne, że często zapominamy, jak genialny stoi za nimi koncept i że nasi przodkowie potrzebowali stuleci, by wymyślić coś, co dla nas jest aż tak oczywiste.
+
+Na przestrzeni wieków opracowano różne sposoby zapisu liczb. Najprostszy polega na wykonaniu tylu znaków, z ilu jednostek składa się liczba, na przykład krótkich kresek, jednej obok drugiej. Nadal często używamy tej metody, licząc punkty w grze.
+
+
+
+Najstarsze znane ślady zastosowania tej metody pochodzą z czasów znacznie wyprzedzających wynalezienie pisma przez Sumerów. Kości Ishango, znalezione w latach pięćdziesiątych na brzegu Jeziora Edwarda, dziś znajdującego się w Demokratycznej Republice Konga, datowane są mniej więcej na 20 tysięcy lat. Długie na 10 i 14 centymetrów, charakteryzują się dość regularnie rozmieszczonymi licznymi nacięciami. Czemu miały te nacięcia służyć? Prawdopodobnie był to jeden z pierwszych sposobów liczenia. Niektórzy upatrują w tych przedmiotach pierwowzoru kalendarza, podczas gdy inni doszukują się u ich twórców całkiem zaawansowanych umiejętności rachunkowych. Jaka jest prawda, trudno orzec. Te dwie kości można dziś oglądać w Muzeum Nauk Przyrodniczych w Brukseli.
+
+Owa metoda obliczeń, wykorzystująca nowy znak dla każdej dodanej jednostki, ujawnia swoje ograniczenia, gdy w grę wchodzi konieczność posługiwania się wielkimi liczbami. Żeby liczyć szybciej, trzeba z liczb robić pakiety!
+
+Odtąd żetony używane w Mezopotamii reprezentują wiele jednostek. Istniał na przykład szczególny żeton oznaczający dziesięć owiec. Po wynalezieniu pisma stosowana ówcześnie metoda obliczeń zostaje zachowana. Istnieją symbole na oznaczenie pakietów obejmujących 10, 60, 600, 3600 i 36 000 elementów.
+
+
+
+W tworzeniu symboli ujawnia się troska o logikę. I tak 60 oraz 3600 są mnożone przez 10, ponieważ w środku mają dodany okrąg. Wraz z pojawieniem się pisma klinowego te początkowe symbole ulegają stopniowym przemianom.
+
+
+
+Sąsiedztwo Mezopotamii sprawia, że niebawem także Egipt odpowiednio przystosowuje pismo i na początku III tysiąclecia tworzy własne symbole liczbowe.
+
+
+
+System liczenia przyjmuje ściśle dziesiątkową postać, każdy znak odpowiada wartości dziesięć razy większej niż wartość poprzedniego znaku.
+
+Są to wszystko addytywne systemy liczbowe, czyli takie, w których wystarczy dodać do siebie wartości odpowiadające wypisanym symbolom, aby odczytać liczbę. Odniosły one wielki sukces na świecie i zarówno w starożytności, jak i w znacznej części średniowiecza występowały w wielu wariantach. Posługiwali się nimi również Grecy i Rzymianie, którzy w zapisie numerycznym zadowolili się wykorzystaniem liter swych alfabetów.
+
+Jednocześnie stopniowo rodził się nowy rodzaj zapisu liczb – system pozycyjny. Wartość znaku zależała w nim od umiejscowienia w zapisie liczby. I znów to właśnie mieszkańcy Mezopotamii byli pierwsi.
+
+W II tysiącleciu p.n.e. największy wpływ na Bliski Wschód ma kultura mezopotamskiego Babilonu. W zapisie liczb nadal wykorzystuje się pismo klinowe, ale stosowane są już tylko dwa symbole: prosty klin oznaczający 1 oraz V-kształtny (szewron) oznaczający 10.
+
+
+
+Te dwa znaki, dzięki dodawaniu, pozwalają zapisać liczby do 59. I tak 32 zawiera trzy szewrony i dwa kliny.
+
+
+
+A dalej, poczynając od 60, zaczyna się grupowanie z wykorzystaniem tych samych symboli, które służyły do zapisu liczb mniejszych od 60. I w ten sposób, identycznie jak we współczesnej nam notacji, w której liczby czytane od prawej do lewej oznaczają jednostki, dalej dziesiątki, setki, w notacji babilońskiej znaki symbolizowały jednostki, dalej sześćdziesiątki, potem wielokrotności trzech tysięcy sześciuset (to znaczy wielokrotności sześćdziesiątki pomnożonej przez sześćdziesiąt) i tak dalej, każda pozycja miała wagę sześćdziesiąt razy większą niż poprzednia.
+
+Na przykład liczba 145 składa się z dwóch sześćdziesiątek, dających razem sto dwadzieścia, a do tego dodać trzeba 25 jednostek. Tak więc, Babilończycy napisaliby:
+
+
+
+Dzięki temu systemowi babilońscy uczeni nieprzeciętnie rozwinęli wiedzę. Wykonywali nie tylko cztery podstawowe działania arytmetyczne: dodawanie, odejmowanie, mnożenie i dzielenie, lecz także umieli wyciągać pierwiastki kwadratowe, potęgować, znajdować odwrotności liczb. Stworzyli niezwykle precyzyjne tablice arytmetyczne i wypracowali metody rozwiązywania równań.
+
+A jednak cała ta wiedza wkrótce odeszła w zapomnienie. Cywilizacja Babilonu upadła, a wraz z nią zniknęła wielka część tamtejszej wiedzy matematycznej. Koniec z systemem pozycyjnym. Koniec z równaniami. Trzeba było czekać całe stulecia, żeby te zagadnienia znów ujrzały światło dzienne; dopiero rozszyfrowanie tabliczek klinowych w XIX wieku uświadomiło nam, że mieszkańcy Mezopotamii wszystko to znali znacznie wcześniej niż ktokolwiek inny.
+
+Po Babilończykach system pozycyjny stworzyli Majowie, tym razem dwudziestkowy. A potem nadszedł czas na Hindusów, którzy wymyślili pozycyjny system dziesiątkowy, przejęty najpierw przez Arabów, a potem, pod koniec średniowiecza, rozpowszechniony w Europie. Ze względu na bezpośrednie pochodzenie użyte symbole zyskały w Europie nazwę cyfr arabskich i wkrótce przebojem zdobyły świat.
+
+0 1 2 3 4 5 6 7 8 9
+
+Poznawszy liczby, ludzkość powoli zaczęła rozumieć, że zyskała jednocześnie narzędzie oferujące niespotykane dotychczas możliwości opisywania, analizowania i rozumienia otaczającego nas świata. Byliśmy z tego tak bardzo zadowoleni, że posuwaliśmy się czasem nieco za daleko. Narodziny liczb to również narodziny różnych praktyk numerologicznych. Przypisuje się liczbom właściwości magiczne, buduje się daleko idące interpretacje, odczytuje za pomocą liczb przesłanie od bogów i przeznaczenie świata.
+
+W VI wieku p.n.e. trzon swojej koncepcji filozoficznej stworzył Pitagoras. „Wszystko jest liczbą”, rzekł grecki mędrzec. Zgodnie z jego doktryną to właśnie liczby konstytuują figury geometryczne. Figury z kolei dają początek czterem elementom materii, tworząc ogień, wodę, ziemię i powietrze, z których zbudowane są wszystkie byty. Pitagoras opracował złożony system wyobrażeń oparty na liczbach. Liczby nieparzyste przypisane są pierwiastkowi męskiemu, parzyste zaś – kobiecemu. Liczba 10, reprezentowana przez trójkąt, nazwana tetraktys, stała się symbolem harmonii i doskonałości wszechświata. Pitagoreizm zrodził również arytmomancję, szczycącą się umiejętnością określenia charakteru człowieka na podstawie wartości liczbowych liter, z których składa się jego imię.
+
+Równolegle rozpoczęła się dyskusja, czym jest liczba. Niektórzy autorzy twierdzili, że jedność nie jest liczbą, bo liczba oznacza wielość, a zatem liczby zaczynają się od 2. Sformułowano nawet postulat, iż aby dać początek wszystkim liczbom, 1 powinna być zarazem parzysta i nieparzysta.
+
+W późniejszych czasach to zero, liczby ujemne, a potem urojone i zespolone będą wywoływać ożywione spory. Za każdym razem, ilekroć w świecie liczb pojawia się jakaś nowa idea, zaczyna się dyskusja, która zmusza matematyków, by rozwinęli swoje koncepcje.
+
+Liczby wciąż stawiają przed nami nowe wyzwania, a ludzkość potrzebuje jeszcze bardzo wiele czasu, żeby nauczyć się poskramiać owe dziwne istoty, zrodzone bezpośrednio w naszych umysłach.
+
+
+
+* * *
+
+
+
+Podobny pomysł miał już swoją realizację. W Muzeum Neandertalczyka w Mettmann pod Düsseldorfem w jednej gablocie onegdaj umieszczono krzemienny pięściak i krzemowy tranzystor (przyp. tłum.). [wróć]
+
+
+
+
+
+Rozdział 3
+
+
+
+
+Wstęp tylko dla geometrów
+
+
+Matematyka nie poprzestała na wymyśleniu liczby. Stopniowo wypączkowało z niej wiele nowych dziedzin, takich jak arytmetyka, logika, algebra, które rozwijały się, osiągając wreszcie taki stopień dojrzałości, który umożliwił im przekształcenie się w pełnoprawne dyscypliny naukowe.
+
+Jedna z nich szybko wyciągnęła szczęśliwy los i przykuła uwagę największych mędrców starożytności. Była to geometria. To właśnie ona przyniosła sławę wielkim matematykom: Talesowi, Pitagorasowi i Archimedesowi, których imiona po dziś dzień „straszą” w szkolnych podręcznikach.
+
+Stało się tak dlatego, że uzyskała swój szlachecki tytuł, jeszcze zanim jej zagadnienia zaczęli rozważać wielcy myśliciele. Świadczy o tym jej etymologia – geometria jest przede wszystkim nauką o mierzeniu ziemi; pierwsi mierniczy byli po trosze matematykami. Problemy dotyczące podziału powierzchni stały się podstawowymi zagadnieniami tej nauki. Jak podzielić pole na równe części? Jak określić wartość ziemi na podstawie jej rozmiaru konkretnego pola? Która z dwóch działek leży bliżej rzeki? Którędy poprowadzić kanał, żeby był jak najkrótszy?
+
+Wszystkie te zagadnienia miały pierwszoplanowe znaczenie dla antycznych społeczeństw, których gospodarka opierała się na rolnictwie, a zatem na podziale ziemi. Aby znaleźć rozwiązania ówczesnych problemów, tworzono, rozwijano i z pokolenia na pokolenie przekazywano wiedzę geometryczną. Ten, kto ją posiadł, miał zapewnioną szczególną pozycję w ówczesnym społeczeństwie.
+
+Dla specjalistów zajmujących się mierzeniem pierwszym geometrycznym narzędziem był sznurek. W Egipcie napinacze sznura tworzyli wręcz osobną grupę zawodową. Ponieważ przybory Nilu regularnie wywoływały powodzie, do obowiązków napinaczy należało ponowne wytyczanie granic działek, które sąsiadowały z rzeką. Korzystając z posiadanej wiedzy terenowej, wbijali słupki, rozciągali na polach długie liny, a potem na podstawie obliczeń odnajdywali granice zniszczone przez wodę.
+
+Oni również jako pierwsi ruszali do pracy, gdy wznoszono budynek, i na podstawie planów konstruktora precyzyjnie wyznaczali na ziemi położenie fundamentów. A gdy budowano świątynię lub szczególnie ważny monument, wtedy czasem zdarzało się, że jako pierwszy napinał linę sam faraon.
+
+Sznur był zresztą jedynym narzędziem geometry. Mierniczy używał go zarazem jako liniału, cyrkla i kątownika.
+
+W przypadku liniału rzecz jest prosta. Napnijcie sznur pomiędzy dwoma ustalonymi punktami, a otrzymacie linię prostą. A jeśli chcecie mieć liniał z podziałką, wystarczy zawiązać na sznurze węzły w regularnych odstępach. Z cyrklem też nie ma żadnych problemów. Zamocujcie jeden koniec sznura do tyczki, napnijcie go i wykonajcie wokół niej obrót. Jeśli wasz sznur ma podziałkę, to będziecie mogli określić promień okręgu.
+
+Z kątownikiem jest już nieco trudniej. Zajmijmy się przez chwilę konkretnym problemem: jak wyznaczyć kąt prosty? Po chwili zastanowienia możemy znaleźć kilka sposobów. Jeśli na przykład wykreślimy dwa przecinające się okręgi, to linia prosta łącząca ich środki będzie prostopadła do linii przechodzącej przez punkty przecięcia tych okręgów. I tak oto otrzymujemy kąt prosty.
+
+
+
+Z czysto teoretycznego punktu widzenia jest to doskonała metoda, ale w praktyce okazuje się zbyt skomplikowana. Wyobraźmy sobie mierniczych, którzy za każdym razem, gdy chcą wyznaczyć kąt prosty lub sprawdzić kąt świeżo wzniesionego elementu budowli, muszą na powierzchni ziemi narysować dwa wielkie okręgi. Ani to szybkie, ani też skuteczne. Istnieje inna metoda, bardziej subtelna i bardziej praktyczna: ze sznura można zbudować trójkąt, którego jeden kąt jest kątem prostym. Taki trójkąt nazywamy prostokątnym. Najsłynniejszy z nich to trójkąt o proporcjach boków 3 : 4 : 5! Jeśli użyjecie sznura podzielonego na dwanaście odcinków za pomocą trzynastu węzłów, będziecie mogli zbudować trójkąt o bokach liczących odpowiednio trzy, cztery i pięć jednostek. I jak gdyby za sprawą czarów kąt między bokami o trzech i o czterech jednostkach będzie właśnie kątem prostym.
+
+
+
+Aby konstruować trójkąty prostokątne, Babilończycy już cztery tysiące
+
+lat temu tworzyli specjalne tablice liczbowe. Tabliczka
+
+Plimptona1 nr 322, która dziś znajduje się w zbiorach
+
+Uniwersytetu Columbia w Nowym Jorku, datowana na 1800 r. p.n.e., zawiera
+
+tablice piętnastu takich trójek liczb. Obok trójkąta 3 : 4 : 5 jest tam
+
+jeszcze czternaście innych trójkątów, wśród których znajdują się także
+
+dużo bardziej skomplikowane, takie jak 65 : 72 : 97 czy też 1679 : 2400
+
+Poza kilkoma drobnymi literówkami – błędami rachunkowymi lub pomyłkami kopisty – trójkąty z tabliczki Plimptona są po prostu doskonałe, wszystkie są prostokątne!
+
+
+
+
+
+Trudno dokładnie wskazać, od kiedy babilońscy mierniczy w praktyce stosowali wiedzę o trójkątach prostokątnych, pozostaje jednak faktem, że korzystano z tej metody jeszcze długo po upadku ich cywilizacji. W epoce średniowiecza sznur o trzynastu węzłach, nazywany także sznurem druidów, był jednym z podstawowych narzędzi budowniczych katedr.
+
+W trakcie wędrówki przez historię matematyki nierzadko zauważamy, że podobne idee rodzą się niezależnie od siebie w miejscach odległych o tysiące kilometrów i bardzo dalekich pod względem kulturowym. Takich dziwnych koincydencji jest naprawdę sporo. Na przykład ze zdumieniem zauważamy, że w I tysiącleciu p.n.e. te same umiejętności matematyczne co Babilończycy, Egipcjanie i Grecy tego okresu wytworzyła cywilizacja chińska.
+
+Umiejętności te rozwijały się przez wieki, zanim zostały zebrane za czasów dynastii Han, jakieś dwa tysiące lat temu, w jednym z pierwszych wielkich traktatów matematycznych świata, Dziewięciu rozdziałach o sztuce matematyki.
+
+Pierwszy z owych dziewięciu rozdziałów jest w całości poświęcony zagadnieniom mierzenia pola powierzchni różnych figur. Drobiazgowo omówiono tu pomiar pola powierzchni takich figur geometrycznych, jak prostokąty, trójkąty, trapezy, koła, fragmenty kół oraz pierścienie. Tymczasem w dalszej części dzieła, w ostatnim rozdziale, odkrywamy rozważania poświęcone trójkątom prostokątnym. Zgadnijcie, jakiej figury dotyczy pierwsze zdanie tego rozdziału… Otóż trójkąta 3 : 4 : 5!
+
+Wielkie idee takie właśnie są. Nie respektują granic kultur i potrafią spontanicznie rozkwitać tam, gdzie ludzki umysł jest gotów na ich przyjęcie.
+
+KILKA ZAGADNIEŃ TAMTEJ EPOKI
+
+Zagadnienia związane z polem powierzchni, architekturą czy ogólniej organizacją przestrzeni sprawiły, że antyczni uczeni podejmowali niezwykle różnorodne problemy geometryczne.
+
+Następujący problem pochodzący z babilońskiej tabliczki BM 85 200 dowodzi, że Babilończycy nie zajmowali się jedynie geometrią płaszczyzny, lecz także zagadnieniami przestrzennymi.
+
+Piwnica. Tyle co długość: głębokość 1. Ziemia, którą wydobyłem. Moja gleba i ziemia, którą zgromadziłem, 1’10. Długość i front ’50. Długość, front, co2?
+
+Najwyraźniej babilońscy matematycy wyrażali się naprawdę skrótowo. Gdybyśmy chcieli, żeby opis stał się nieco jaśniejszy, to powyższe zadanie przybrałoby następującą formę:
+
+Głębokość piwnicy jest dwanaście razy większa3 niż jej długość. Jeśli wykopię swoją piwnicę tak, żeby jej głębokość była większa o jedną jednostkę, to jej objętość będzie równa 7/6. Jeśli dodam długość i szerokość, otrzymam 5/64. Jakie są wymiary piwnicy?
+
+Powyższe zagadnienie przedstawiono wraz ze szczegółową metodą postępowania prowadzącą do znalezienia rozwiązania: długość ½, szerokość i głębokość 6.
+
+Wybierzmy się teraz na krótką wycieczkę nad Nil. Jak dobrze wiadomo, Egipcjanie rozważali rozmaite zagadnienia dotyczące piramid. Następujące zadanie pochodzi ze słynnego papirusu zredagowanego przez pisarza Ahmesa, datowanego na pierwszą połowę XVI stulecia p.n.e.5
+
+Jaka jest wysokość piramidy o boku podstawy 140 łokci, której nachylenie6 ma wartość 5 palm i jeden palec?
+
+Łokieć, palma (dłoń) i palec to jednostki długości odpowiednio o wartości 52,5 cm, 7,5 cm i 1,88 cm. Ahmes razem z problemem podaje jego rozwiązanie: 93 i łokcia. W tym samym papirusie pisarz rozważa również geometrię koła.
+
+Przykład obliczania pola okrągłego o średnicy 9 khet. Jaką wartość ma pole powierzchni?
+
+Khet jest jednostką długości liczącą 52,5 m. Rozwiązując ten problem, Ahmes twierdzi, że pole powierzchni tego koła jest równe polu powierzchni kwadratu o boku mającym długość 8 khet. Jest to niezwykle użyteczne porównanie, ponieważ obliczenie pola powierzchni kwadratu jest dużo prostsze niż obliczenie pola powierzchni koła. Obliczenie przedstawia się następująco: 8 × 8 = 64. Jednak matematycy, którzy nadejdą po Ahmesie, odkryją, że nie jest to ścisły wynik. Pola powierzchni tego koła i kwadratu nie są sobie idealnie równe. Wielu z nich będzie starało się znaleźć odpowiedź na pytanie, jak zbudować kwadrat o polu powierzchni równym polu powierzchni koła. Wielu będzie trudzić się nadaremnie i bez skutku. Ahmes nieświadomie stał się jednym z pierwszych, którzy zmierzyli się z największą łamigłówką wszech czasów – zagadnieniem kwadratury koła!
+
+Również w Chinach zajmowano się kwestią pola powierzchni koła. Następujący problem pochodzi z pierwszego z Dziewięciu rozdziałów.
+
+Przypuśćmy, że mamy pole kołowe o obwodzie 30 bu i średnicy 10 bu. Ile wynosi pole powierzchni?7
+
+Użyta tu wielkość „bu” odpowiada długości około 1,4 metra. Podobnie jak Egipcjanie, także chińscy matematycy nie uporali się z tym zagadnieniem. Dziś już wiadomo, że problem jest źle postawiony, bo koło o promieniu 10 ma obwód nieco ponad 30. To jednak nie przeszkodziło chińskim matematykom w znalezieniu przybliżonego rozwiązania (75 bu8) ani też nie skomplikowało zadania wiążącego się z obliczaniem pól powierzchni pierścieni kołowych.
+
+Przyjmijmy, że mamy pierścień o obwodzie wewnętrznym 92 bu i obwodzie zewnętrznym 122 bu i szerokości 5 bu. Jakie jest pole jego powierzchni?
+
+Można domniemywać, że w starożytnych Chinach nie było pól o kształcie pierścienia; w związku z tym mamy prawo przypuszczać, że mędrcy Państwa Środka, zajmując się geometrią, uważali te problemy za wyzwanie rzucone teorii. Poszukiwanie coraz bardziej niewiarygodnych i dziwacznych figur geometrycznych po to, by je zbadać, jest wciąż konikiem matematyków.
+
+
+
+Do grona specjalistów zajmujących się geometrią należy zaliczyć także bematystów9. Jeśli mierniczy czy napinacz sznura miał za zadanie podać wymiary pól lub budynków, to bematysta działał w znacznie większej skali. W Grecji zadaniem przedstawicieli tego zawodu było mierzenie długich dystansów poprzez zliczanie kroków.
+
+Czasem prowadziło to bematystów daleko, bardzo daleko od domu. Tak właśnie było, gdy w VI wieku p.n.e. Aleksander Wielki zabrał kilku z nich ze sobą na wyprawę do Azji, która zakończyła się u granic dzisiejszych Indii. Geometrom piechurom przyszło wtedy wymierzyć tysiące kilometrów.
+
+Popatrzmy na to nieco z dystansu i przez chwilę spróbujmy wyobrazić sobie ludzi defiladowym krokiem pokonujących bezmierne przestrzenie Bliskiego Wschodu. Zaiste dziwny to widok. Przemierzają równiny Górnej Mezopotamii, kroczą przez suche i żółte ziemie półwyspu Synaj, by dotrzeć do żyznych brzegów Nilu, a następnie zmieniając kierunek wędrówki, odważnie przeprawiają się przez górskie masywy Imperium Perskiego i pustynie dzisiejszego Afganistanu. Czy widzicie ich, wytrwałych, wciąż w drodze, maszerujących w rytmie monotonnym i jednostajnym, pieszo pokonujących wysokie szczyty Hindukuszu, by w końcu dotrzeć do wybrzeży Oceanu Indyjskiego? I niestrudzenie liczących kroki.
+
+Obraz jest zaskakujący, a zadanie wydaje się wręcz szalone w swej przesadności. A mimo to precyzja ich wyliczeń jest godna uwagi: średnio poniżej 5% odchylenia od współczesnych pomiarów! Dzięki bematystom Aleksandra tereny jego królestwa dało się opisać z dokładnością dotąd niespotykaną w odniesieniu do tak rozległych obszarów.
+
+W Egipcie dwa stulecia później myśl greckiego uczonego Eratostenesa podążyła jeszcze dalej. Wpadł na pomysł, jak zmierzyć obwód… Ziemi! Ni mniej, ni więcej! Ma się rozumieć, że nie chodziło mu o wysłanie nieszczęsnych bematystów na wędrówkę wokół naszej planety. O nie. Dzięki pomysłowym obserwacjom kąta padania promieni słonecznych w mieście Syene (dziś Assuan) i w Aleksandrii10 Eratostenes obliczył, że odległość między tymi miastami musi być równa pięćdziesiątej części całkowitego obwodu Ziemi.
+
+Oczywiście potrzebował pomocy bematystów, żeby wykonać pomiar. W odróżnieniu od swoich greckich kolegów egipscy bematyści nie zliczali własnych kroków, ale kroki swych wielbłądów. Zwierzęta te słyną z równomiernego chodu. Po długiej podróży wzdłuż Nilu podano wynik: te dwa miasta dzieli odległość 5000 stadionów, a zatem obwód naszej planety liczy ich 250 000, czyli 39 375 kilometrów. I znów szacunek o dokładności zapierającej dech w piersiach. Zgodnie z naszą dzisiejszą wiedzą obwód ma równo11 40 008 kilometrów. Błąd poniżej 2%!
+
+Grecy, przyznając geometrii wyjątkowe miejsce w kulturze, wyróżniali się wśród starożytnych ludów. Uważali oni, że ze względu na swą ścisłość i doskonałość geometria może kształtować umysły. Platon określał geometrię mianem bramy do filozofii. Legenda głosi, że na frontonie jego Akademii wyryto napis: „Niech nie wstępuje tu nikt, kto nie jest geometrą”.
+
+Sukcesy geometrii były tak wielkie, że przekroczyła ona własne granice, by dokonać podboju innych dyscyplin matematycznych. Arytmetyczne właściwości liczb zaczęto wyrażać w języku geometrii. Przyjrzymy się na przykład definicji Euklidesa, pochodzącej z siódmej księgi Elementów, datowanej na III wiek p.n.e.
+
+Kiedy dwie liczby pomnożone przez siebie czynią nową liczbę, nazywa się ona płaszczyzną, a jej boki są liczbami, które zostały przez siebie pomnożone.
+
+Jeśli wykonuję mnożenie 5 × 3, to w języku Euklidesa liczby 5 i 3 nazywają się „bokami” mnożenia. Dlaczego właśnie tak? Po prostu dlatego, że iloczyn można przedstawić w postaci pola powierzchni prostokąta. Jeśli szerokość tego prostokąta ma wartość 3, a długość 5, jego pole powierzchni równe jest 5 × 3. Liczby 5 i 3 są zatem bokami prostokąta. Tymczasem wynik mnożenia, 15, nosi nazwę płaszczyzny, ponieważ w języku geometrii odpowiada on polu powierzchni.
+
+
+
+Podobne konstrukcje przeniesiono także na inne figury geometryczne. I tak liczba nazywana jest trójkątną, jeśli można przedstawić ją w postaci… trójkąta. Pierwsze liczby trójkątne to 1, 3, 6 oraz 10.
+
+
+
+Ten ostatni trójkąt, złożony z dziesięciu punktów, to słynny tetraktys, z którego Pitagoras i jego uczniowie uczynili symbol harmonii wszechświata. Na podobnej zasadzie zdefiniowane są liczby kwadratowe, z których pierwszymi są liczby 1, 4, 9 i 16.
+
+
+
+Można to długo ciągnąć, odpowiednio do różnych typów figur geometrycznych. Geometryczna reprezentacja liczb pozwala na pokazanie i udowodnienie wielu ich właściwości, które inaczej wydają się niezrozumiałe.
+
+Rozważmy przykład. Czy próbowaliście już dodawać po kolei liczny nieparzyste: 1 + 3 + 5 + 7 + 9 + 11 +… Nie? Wychodzi przy tym na jaw rzecz zupełnie niezwykła. Tylko na to popatrzcie:
+
+1
+
+1 + 3 = 4
+
+1 + 3 + 5 = 9
+
+1 + 3 +5 + 7 = 16
+
+Czy widzicie coś szczególnego w pojawiających się liczbach? Po kolei 1, 4, 9, 16… To przecież liczby kwadratowe! Możecie wykonywać tego rodzaju działania w nieskończoność – reguła pozostanie niezmienna. Jeśli macie chęć, to dodajcie do siebie pierwszych dziesięć liczb nieparzystych, od 1 do 19. Jako wynik otrzymacie 100, czyli dziesiątą liczbę kwadratową:
+
+1 + 3 +5 + 7 + 9 + 11 + 13 + 15 + 17 + 19 =
+
+= 10 × 10 = 100
+
+Zaskakujące, nieprawdaż? Dlaczego? Jakim cudem ta reguła jest zawsze prawdziwa? Można by oczywiście dowodzić tego numerycznie, ale istnieje znacznie prostszy dowód. Jeśli korzystamy z reprezentacji geometrycznej liczb, wystarczy podzielić liczby kwadratowe na fragmenty, a wtedy dowód da się dostrzec gołym okiem.
+
+
+
+Każdy fragment dodaje do kwadratu kolejną nieparzystą liczbę kółek, powiększając przy tym o jeden długość jego boku. Dowód skończony, prosty i jasny.
+
+* * *
+
+Mówiąc krótko, w królestwie matematyki to geometria stała się władczynią i żadne twierdzenie nie mogło być przyjęte, dopóki nie zostało przesiane przez jej sito. Hegemonia geometrii wykroczyła daleko poza antyk i cywilizację grecką. Trzeba było jeszcze ponad dwóch tysięcy lat, by nastąpiła jej detronizacja na rzecz zupełnie nowej metody i nowego języka – algebry. A wszystko za sprawą renesansowych uczonych, którzy podjęli dzieło szeroko zakrojonej modernizacji matematyki.
+
+
+
+* * *
+
+
+
+Georg Artur Plimpton (1855–1936), amerykański wydawca, który zakupił kolekcję tabliczek i zapisał ją Uniwersytetowi Columbia (przyp. tłum.). [wróć]
+
+
+
+Na podstawie: Jens Høyrup (przekład francuski), L’algèbre au temps de Babylone (Algebra w czasach Babilonu), Éditions Vuibert/Adapt-SNES, 2010. [wróć]
+
+
+
+Tabliczka zdaje się mówić, że długość i głębokość piwnicy są jednakowe, ale w systemie babilońskim głębokości wyrażano w jednostkach dwanaście razy większych niż długość. [wróć]
+
+
+
+Trzeba wyjaśnić, że w układzie sześćdziesiątkowym zapis 1’10 oznacza jeden i dziesięć sześćdziesiątych, co my zapiszemy jako ułamek 7/6. Z kolei zapis ’50 oznacza ułamek 5/6 (czyli pięćdziesiąt sześćdziesiątych). [wróć]
+
+
+
+Dokument ten nosi też nazwę papirusu Rhinda, pochodzącą od nazwiska jego odkrywcy, szkockiego egiptologa Aleksandra Henry’ego Rhinda (przyp. red.). [wróć]
+
+
+
+Nachylenie ściany piramidy, w języku egipskim nazywane seked, jest wartością poziomej odległości dwóch punktów, których wysokości różnią się o jeden łokieć. [wróć]
+
+
+
+Przekład francuski, Karine Chemla i Shuchun Guo, Les neuf chapitres, Éditions Dunod, 2005. [wróć]
+
+
+
+Powinno być bu2 (przyp. tłum.). [wróć]
+
+
+
+Od greckiego βῆμα – stopa, krok (przyp. tłum.). [wróć]
+
+
+
+Oba miasta leżą na tym samym południku. Metoda Eratostenesa wymaga jeszcze przyjęcia założenia, że Słońce jest tak daleko od Ziemi, że można uznać, iż jego promienie w Aleksandrii padają równolegle do promieni padających w Syene. Pomiary należało wykonać równocześnie. Wybrano moment, gdy Słońce stało w zenicie w dniu letniego przesilenia (przyp. tłum.). [wróć]
+
+
+
+To jest nieco nieprecyzyjne stwierdzenie, bo Ziemia nie jest kulą, ale geoidą (jest spłaszczona wzdłuż linii łączącej bieguny. W związku z tym nieco inny jest obwód mierzony wzdłuż południka i równika. Nie zmienia to jednak wartości wyniku Eratostenesa i oceny jego metody (przyp. tłum.). [wróć]
+
+
+
+
+
+Rozdział 4
+
+
+
+
+Czas twierdzeń
+
+
+Jest początek maja. Południe. Nad położonym w północnej części Paryża parkiem de la Villette świeci słońce. Przede mną wznosi się Cité des Sciences et de l’Industrie1 ze znajdującą się na pierwszym planie Geodą. Ta dziwna sala kinowa, zbudowana na początku lat osiemdziesiątych, przypomina ogromną (o średnicy 36 metrów) kulę z luster.
+
+Jest to bardzo uczęszczane miejsce. Wokół krążą turyści z aparatami fotograficznymi, którzy chcą obejrzeć ten zdumiewający paryski gmach, i rodziny z dziećmi, które przybyły tu na czwartkowy spacer. Zakochani spacerują ze splecionymi dłońmi i przysiadają obok siebie na trawie. Obok nich wszystkich z obojętnością przechodzą mieszkańcy dzielnicy, ledwie zauważając zwierciadlaną sferę znajdującą się w centrum ich codzienności. Od czasu do czasu wśród tego strumienia lawiruje jakiś biegacz. A dookoła kuli zbierają się dzieciaki, które bawi obserwowanie zdeformowanego obrazu otaczającego je świata.
+
+Jestem tu dziś z powodu jej geometrii, która szczególnie mnie zajmuje. Zbliżam się do kuli, a przy tym uważnie ją obserwuję. Jej powierzchnię tworzą tysiące połączonych ze sobą luster o trójkątnym kształcie. Na pierwszy rzut oka konstrukcja ta wydaje się idealnie regularna, ale po kilku minutach obserwacji zaczynam dostrzegać odstępstwa od przyjętej reguły. Skupione wokół pewnych określonych punktów trójkąty deformują się i poszerzają, jak gdyby zostały rozciągnięte w wyniku zniekształcenia struktury. Nieco dalej, na prawie całej powierzchni sfery, trójkąty tworzą jednak doskonale regularną sieć o sześciokątnej symetrii. Owych szczególnych punktów, w których spotyka się nie sześć, a tylko pięć trójkątów, jest dwanaście.
+
+
+
+Płaskie odwzorowanie Geody i jej tysięcy trójkątów.
+
+Miejsca, w których trójkąty grupują się po pięć,
+
+zaznaczono ciemnoszarym odcieniem
+
+Na pierwszy rzut oka owe nieregularności są niemal niezauważalne. Większość przechodniów nie poświęca im cienia uwagi. A jednak tam są i dla mnie jako matematyka całe założenie jest wręcz oczywiste. Mogę nawet powiedzieć, że spodziewałem się takiego rozwiązania! Architekt nie popełnił jakiegokolwiek błędu, zresztą na świecie istnieje wiele rozmaitych konstrukcji o podobnej geometrii i wszystkie one mają dwanaście punktów, w których styka się ze sobą pięć, a nie sześć trójkątów. Takie układy są konsekwencją nieuniknionych ograniczeń geometrycznych, odkrytych ponad dwa tysiące lat temu przez greckich matematyków.
+
+Stworzenie pełnej klasyfikacji wielościanów foremnych zawdzięczamy Teajtetowi z Aten, greckiemu matematykowi żyjącemu w IV wieku p.n.e. W geometrii wielościanem nazywamy bryłę o skończonej objętości, ograniczonej pewną liczbą ścian płaskich. Tak więc sześciany i piramidy należą do wielościanów, a kule i walce, mające zaokrąglone brzegi – już nie. Geoda, bryła o trójkątnych ścianach, może być uważana za monstrualny wielościan, choć z powodu ogromnej liczby swoich ścian oglądana z daleka kształtem przypomina kulę.
+
+Szczególnym przedmiotem zainteresowania Teajteta były wielościany doskonale symetryczne, to znaczy takie, w których wszystkie ściany i wszystkie kąty są jednakowe. Znalazł takich wielościanów pięć i udowodnił, że więcej nie ma. Pięć brył i to już wszystko. Ani jednej więcej. To naprawdę niepokojące odkrycie.
+
+
+
+Od lewej do prawej:
+
+czworościan (tetraedr), sześcian (heksaedr), ośmiościan (oktaedr), dwunastościan (dodekaedr) i dwudziestościan (ikosaedr)
+
+Jeszcze i dziś w odniesieniu do poszczególnych wielościanów używa się nazw odnoszących się do greckich określeń liczby ich ścian (z końcówką -edr). I tak sześcian jest również nazywany heksaedrem. Tetraedr, heksaedr, oktaedr, dodekaedr i ikosaedr mają odpowiednio cztery, sześć, osiem, dwanaście i dwadzieścia ścian. Później te pięć wielościanów nazwano bryłami platońskimi.
+
+Platońskimi? Dlaczego nie bryłami Teajteta? Historia nie jest sprawiedliwa i odkrycia nie zawsze nazywane są imionami tych, którzy naprawdę zasługują na sławę w oczach potomnych. Ateński filozof nie miał nic wspólnego z odkryciem owych pięciu brył, a jednak jego właśnie z nimi kojarzymy tylko dlatego, że połączył poszczególne bryły z podstawowymi elementami, z których zbudowany jest świat, czyli żywiołami. Czworościan ściśle powiązał z ogniem, sześcian z ziemią, ośmiościan z powietrzem, a dwudziestościan z wodą. Co do dwunastościanu, to Platon łączył go z formą wszechświata. Później nauka odrzuciła tę teorię, a jednak wielokąty foremne kojarzymy wciąż z Platonem.
+
+Uczciwość wymaga, by nadmienić, że Teajtet wcale nie był pierwszym odkrywcą tych pięciu brył. Ich rzeźbione modele i słowne opisy pojawiły się na długo przed nim. Zbiór niewielkich kamiennych kul ukazujących bryły platońskie, który odkryto w Szkocji, jest datowany na tysiąc lat przed Grekami! Dziś kule te są przechowywane w Ashmolean Museum w Oksfordzie.
+
+A zatem czyżby Teajtet był niewiele więcej wart niż Platon? A może i on jest tylko uzurpatorem? Bynajmniej, bo nawet jeśli te pięć brył znano już przed nim, to był on pierwszym, który udowodnił, że lista jest zamknięta. Dalsze poszukiwania są po prostu bezcelowe, rzecze Teajtet, nikt już niczego więcej nie znajdzie. To stwierdzenie ma w sobie coś uspokajającego. Pozwala uniknąć dręczących wątpliwości. Uff! To już wszystko.
+
+Ujawnia się tu charakterystyczne podejście Greków do uprawiania matematyki. Nie chodzi im wyłącznie o znalezienie poprawnego rozwiązania. Matematycy greccy chcą wyczerpać zagadnienie. Chcą mieć pewność, że nic im nie umknęło. I dlatego sztukę matematycznych poszukiwań doprowadzają do perfekcji.
+
+Powróćmy jednak do Geody. Od rozumowania Teajteta nie ma odwołania. Wielościan, który ma wiele setek ścian, nie może być foremny. Co zatem musi zrobić architekt, który chce wznieść budowlę jak najbardziej przypominającą sferę, ale jednocześnie będącą figurą jak najbardziej foremną? Z przyczyn technicznych trudno jest stworzyć taką konstrukcję w jednym kawałku. Nie pozostaje nic innego, jak połączyć bardzo wiele drobnych ścian. Ale jak zbudować taką strukturę?
+
+Możliwych jest wiele rozwiązań. Jedno z nich polega na zmodyfikowaniu którejś z brył platońskich. Weźmy na przykład dwudziestościan. Ze swoją dwudziestką trójkątnych ścian z całej piątki to właśnie on jest najbardziej „zaokrąglony”. Żeby wygiąć go jeszcze bardziej, można podzielić każdą z jego ścian na mniejsze ścianki. Aby otrzymany w ten sposób wielościan jak najbardziej przypominał kulę, można sobie wyobrazić, że nadmuchujemy go powietrzem.
+
+Oto co dzieje się, gdy dzielimy każdą ścianę dwudziestościanu na cztery mniejsze trójkąty.
+
+
+
+Dwudziestościan
+
+
+
+Dwudziestościan o ścianach podzielonych na cztery
+
+
+
+Nadmuchany dwudziestościan o podzielonych ścianach
+
+Ten rodzaj wielokąta w geometrii nazywany jest… geodą. Etymologicznie oznacza to bryłę, która swym kształtem przypomina Ziemię, a zatem także i kulę. W zasadzie to nic skomplikowanego. Jest to dokładnie ta sama konstrukcja, którą wykorzystano, budując Geodę w parku de la Villette! W jej przypadku podział ścian jest jednak bardziej drobiazgowy. Ściany dwudziestościanu zostały podzielone na 400 mniejszych ścianek, co razem daje osiem tysięcy trójkątnych fasetek. W rzeczywistości Geoda liczy ich mniej niż 8000 – ponieważ nie jest zamknięta, ma ich tylko 6433. Jej podstawa, spoczywająca na ziemi, jest odcięta. Dlatego brakuje pewnej liczby trójkątów. W każdym razie ta struktura pozwala wyjaśnić obecność dwunastu wspomnianych nieregularności. Po prostu odpowiadają one dwunastu wierzchołkom wyjściowego dwudziestościanu. Innymi słowy, są to te same miejsca, w których spotykają się wielkie trójkąty wyjściowej figury, po pięć w każdym wierzchołku dwudziestościanu. Owe wierzchołki, ostre na początku, zostają spłaszczone w procesie zwielokrotniania ścian i stają się niemal niezauważalne. Mimo to pozostają zakotwiczone w układzie trójkątów i uważni obserwatorzy mogą dostrzec tych dwanaście wciąż istniejących nieregularności.
+
+Teajtet oczywiście nie miał pojęcia, że jego poszukiwania pozwolą kiedyś na wzniesienie takiej budowli jak Geoda. Na tym właśnie polega potęga matematyki w ujęciu, w jakim chcieli ją rozwijać matematycy starożytnej Grecji, jej wspaniała zdolność do rodzenia nowych idei. Grecy powoli zaczęli odrywać swe rozważania od konkretnych zagadnień i dzięki temu mogli tworzyć modele oryginalne i inspirujące do rozwiązywania problemów czysto intelektualnych. Mimo że początkowo wydawało się, iż wiele tworzonych przez nich modeli nie ma żadnego konkretnego zastosowania, to długo po śmierci ich odkrywców zupełnie nieoczekiwanie objawiała się użyteczność tych myślowych konstrukcji.
+
+Pięć brył platońskich aż do dziś znajduje zastosowanie w rozmaitych obszarach naszego życia. Wszystkie one sprawdzają się choćby w grach towarzyskich. Dzięki swej foremności są dobrze wyważone, da się je więc wykorzystać w charakterze kostki do gry – ze względu na identyczne prawdopodobieństwo wypadnięcia każdej ze ścian. Cały świat zna kostkę o kształcie sześcianu, ale namiętni gracze wiedzą, że także pozostałe cztery kształty są spotykane, zwiększając przyjemność gracza i liczbę możliwych wyników.
+
+Oddalając się nieco od Geody, spotykam grupę dzieci, które grają w nogę na parkowym trawniku. Nawet się nie domyślają, że w tej właśnie chwili również i one stawiają Teajtetowi pomnik. Czy zauważyły, że ich piłka także ma strukturę geometryczną? Większość futbolówek ma tę samą budowę: dwadzieścia sześcioboków i dwanaście pięcioboków. W tradycyjnych piłkach sześciokąty są białe, podczas gdy pięciokąty – czarne. I nawet wtedy, gdy powierzchnia piłki pokryta jest różnobarwnymi obrazkami, wystarczy uważnie obejrzeć szwy, które łączą jej części, by dostrzec dwadzieścia sześcioboków i pięć pięcioboków.
+
+Dwudziestościan ścięty! Oto nazwa opisująca bryłę o kształcie futbolówki. Ma ona w założeniu spełnić te same wymogi co Geoda – musi być zarazem maksymalnie regularna i maksymalnie okrągła. Różna jest jednak metoda prowadząca do celu. Zamiast dzielić ściany, by móc zaokrąglić powierzchnię, wystarczy… pójść na skróty. Wyobraźcie sobie dwudziestościan z plasteliny, weźcie nóż i zwyczajnie zetnijcie wierzchołki. Dwadzieścia trójkątów mających wystające wierzchołki zmieni się w sześcioboki, podczas gdy dwanaście izolowanych punktów stanie się pięciokątami.
+
+
+
