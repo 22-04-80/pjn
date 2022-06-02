@@ -33,7 +33,7 @@ corpus <- VCorpus(
   DirSource(
     corpus_dir,
     #		pattern = "*.txt",
-    encoding = "CP1250"
+    encoding = "UTF-8"
   ),
   readerControl = list(
     language = "pl_PL"

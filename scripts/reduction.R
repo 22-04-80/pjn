@@ -48,7 +48,7 @@ plot_file <- create_path(
   plots_dir,
   "pca.png"
 )
-png(plot_file)
+png(plot_file, width = 1920, height = 1024)
 plot(
   x, 
   y
@@ -64,7 +64,7 @@ text(
   pos = 4
 )
 legend(
-  "bottom",
+  "top",
   legend,
   cex = 0.6
 )
@@ -81,7 +81,7 @@ coord_terms <- lsa$tk%*%diag(lsa$sk)
 terms_importance <- diag(lsa$tk%*%diag(lsa$sk)%*%t(diag(lsa$sk))%*%t(lsa$tk))
 important_terms <- names(tail(sort(terms_importance),30))
 coord_important_terms <- coord_terms[important_terms,]
-own_terms <- c("eustachy", "harry", "ron", "hermiona", "dumbledore", "umbridge", "syriusz", "łucja", "zuzanna", "piotr", "edmund", "aslana", "narnii", "bell", "edward", "jacob", "wampir", "czarownica", "czarodziej")
+own_terms <- c("antenat", "achilles", "wojna", "mars", "ziemianin", "myrton", "bóstwo", "grunwald", "bogini", "bóg", "holden", "naomi", "kamień", "matematyka", "egipt", "filozofia")
 coord_own_terms <- coord_terms[own_terms,]
 coord_plot_terms <- coord_own_terms
 
@@ -105,11 +105,11 @@ plot_file <- create_path(
   plots_dir,
   "lsa.png"
 )
-png(plot_file)
+png(plot_file, width = 3656, height = 2664)
 plot(
   x1, 
   y1,
-  xlim = c(-5,0)
+  xlim = c(-20,20)
 )
 text(
   x1, 
@@ -132,7 +132,7 @@ text(
   rownames(coord_plot_terms)
 )
 legend(
-  "topleft",
+  "top",
   legend,
   cex = 0.6
 )
