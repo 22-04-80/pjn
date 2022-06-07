@@ -43,65 +43,6 @@ corpus <- VCorpus(
 # usunięcie rozszerzeń z nazw plików w korpusie
 corpus <- tm_map(corpus, cut_extensions)
 
-# utworzenie macierzy częstości
-tdm_tf_all <- TermDocumentMatrix(corpus)
-tdm_tfidf_all <- TermDocumentMatrix(
-  corpus,
-  control = list(
-    weighting = weightTfIdf
-  )
-)
-tdm_tf_2_16 <- TermDocumentMatrix(
-  corpus,
-  control = list(
-    bounds = list(
-      global = c(2,16)
-    )
-  )
-)
-tdm_tfidf_2_16 <- TermDocumentMatrix(
-  corpus,
-  control = list(
-    weighting = weightTfIdf,
-    bounds = list(
-      global = c(2,16)
-    )
-  )
-)
-dtm_tf_all <- DocumentTermMatrix(corpus)
-dtm_tfidf_all <- DocumentTermMatrix(
-  corpus,
-  control = list(
-    weighting = weightTfIdf
-  )
-)
-dtm_tf_2_16 <- DocumentTermMatrix(
-  corpus,
-  control = list(
-    bounds = list(
-      global = c(2,16)
-    )
-  )
-)
-dtm_tfidf_2_16 <- DocumentTermMatrix(
-  corpus,
-  control = list(
-    weighting = weightTfIdf,
-    bounds = list(
-      global = c(2,16)
-    )
-  )
-)
-
-# przekształcenie macierzy rzadkich do macierzy klasycznych
-tdm_tf_all_m <- as.matrix(tdm_tf_all)
-tdm_tfidf_all_m <- as.matrix(tdm_tfidf_all)
-tdm_tf_2_16_m <- as.matrix(tdm_tf_2_16)
-tdm_tfidf_2_16_m <- as.matrix(tdm_tfidf_2_16)
-dtm_tf_all_m <- as.matrix(dtm_tf_all)
-dtm_tfidf_all_m <- as.matrix(dtm_tfidf_all)
-dtm_tf_2_16_m <- as.matrix(dtm_tf_2_16)
-dtm_tfidf_2_16_m <- as.matrix(dtm_tfidf_2_16)
 
 # utworzenie katalogu na macierze
 matrixes_dir <- create_path(
@@ -110,24 +51,147 @@ matrixes_dir <- create_path(
 )
 dir.create(matrixes_dir, showWarnings = F)
 
+# 2_16_tf DTM i TDM
+
+tdm_tf_2_16 <- TermDocumentMatrix(
+  corpus,
+  control = list(
+    bounds = list(
+      global = c(2,16)
+    )
+  )
+)
+
+dtm_tf_2_16 <- DocumentTermMatrix(
+  corpus,
+  control = list(
+    bounds = list(
+      global = c(2,16)
+    )
+  )
+)
+
+tdm_tf_2_16_m <- as.matrix(tdm_tf_2_16)
+dtm_tf_2_16_m <- as.matrix(dtm_tf_2_16)
+
 # eksport macierzy do pliku
 matrix_file <- create_path(
   matrixes_dir,
-  "tdm_tf_all.csv"
+  "tdm_tf_2_16.csv"
 )
 write.table(
-  tdm_tf_all_m,
+  tdm_tf_2_16_m,
   matrix_file,
   sep = ";",
   dec = ",",
   col.names = NA
 )
+
 matrix_file <- create_path(
   matrixes_dir,
-  "dtm_tf_all.csv"
+  "dtm_tf_2_16.csv"
 )
 write.table(
-  dtm_tf_all_m,
+  dtm_tf_2_16_m,
+  matrix_file,
+  sep = ";",
+  dec = ",",
+  col.names = NA
+)
+
+# 3_15_weightTfIdf DTM i TDM
+
+tdm_tfidf_3_15 <- TermDocumentMatrix(
+  corpus,
+  control = list(
+    weighting = weightTfIdf,
+    bounds = list(
+      global = c(3,15)
+    )
+  )
+)
+
+dtm_tfidf_3_15 <- DocumentTermMatrix(
+  corpus,
+  control = list(
+    weighting = weightTfIdf,
+    bounds = list(
+      global = c(3,15)
+    )
+  )
+)
+
+tdm_tfidf_3_15_m <- as.matrix(tdm_tfidf_3_15)
+dtm_tfidf_3_15_m <- as.matrix(dtm_tfidf_3_15)
+
+# eksport macierzy do pliku
+matrix_file <- create_path(
+  matrixes_dir,
+  "tdm_tfidf_3_15.csv"
+)
+write.table(
+  tdm_tfidf_3_15_m,
+  matrix_file,
+  sep = ";",
+  dec = ",",
+  col.names = NA
+)
+
+matrix_file <- create_path(
+  matrixes_dir,
+  "dtm_tfidf_3_15.csv"
+)
+write.table(
+  dtm_tfidf_3_15_m,
+  matrix_file,
+  sep = ";",
+  dec = ",",
+  col.names = NA
+)
+
+
+# 4_14_tf DTM i TDM
+
+tdm_tf_4_14 <- TermDocumentMatrix(
+  corpus,
+  control = list(
+    bounds = list(
+      global = c(4,14)
+    )
+  )
+)
+
+dtm_tf_4_14 <- DocumentTermMatrix(
+  corpus,
+  control = list(
+    bounds = list(
+      global = c(4,14)
+    )
+  )
+)
+
+tdm_tf_4_14_m <- as.matrix(tdm_tf_4_14)
+dtm_tf_4_14_m <- as.matrix(dtm_tf_4_14)
+
+# eksport macierzy do pliku
+matrix_file <- create_path(
+  matrixes_dir,
+  "tdm_tf_4_14.csv"
+)
+write.table(
+  tdm_tf_4_14_m,
+  matrix_file,
+  sep = ";",
+  dec = ",",
+  col.names = NA
+)
+
+matrix_file <- create_path(
+  matrixes_dir,
+  "dtm_tf_4_14.csv"
+)
+write.table(
+  dtm_tf_4_14_m,
   matrix_file,
   sep = ";",
   dec = ",",
