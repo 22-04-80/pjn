@@ -29,7 +29,7 @@ plots_dir <- create_path(
 dir.create(plots_dir, showWarnings = F)
 
 # analiza głównych składowych
-pca <- prcomp(dtm_tfidf_2_16)
+pca <- prcomp(dtm_tfidf_3_15)
 
 # wykres dokumentów w przestrzeni dwuwymiarowej
 x <- pca$x[,1]
@@ -37,10 +37,10 @@ y <- pca$x[,2]
 legend <- paste(
   paste(
     "d",
-    1:length(rownames(dtm_tfidf_2_16)),
+    1:length(rownames(dtm_tfidf_3_15)),
     sep = ""
   ),
-  rownames(dtm_tfidf_2_16),
+  rownames(dtm_tfidf_3_15),
   sep = " - "
 )
 
@@ -48,7 +48,7 @@ plot_file <- create_path(
   plots_dir,
   "pca.png"
 )
-png(plot_file, width = 1920, height = 1024)
+png(plot_file, width = 800, height = 600)
 plot(
   x, 
   y
@@ -58,13 +58,13 @@ text(
   y, 
   paste(
     "d",
-    1:length(rownames(dtm_tfidf_2_16)),
+    1:length(rownames(dtm_tfidf_3_15)),
     sep = ""
   ),
   pos = 4
 )
 legend(
-  "top",
+  "bottomright",
   legend,
   cex = 0.6
 )
@@ -105,7 +105,7 @@ plot_file <- create_path(
   plots_dir,
   "lsa.png"
 )
-png(plot_file, width = 3656, height = 2664)
+png(plot_file, width = 800, height = 600)
 plot(
   x1, 
   y1,
@@ -116,7 +116,7 @@ text(
   y1, 
   paste(
     "d",
-    1:length(rownames(dtm_tfidf_2_16)),
+    1:length(rownames(tdm_tf_2_16)),
     sep = ""
   ),
   pos = 4
